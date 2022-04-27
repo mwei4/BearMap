@@ -9,11 +9,11 @@ file_name = url[url.find("subject=")+8:] + "_" + \
 with open(file_name, 'w', encoding='utf-8') as f:
     for i in range(len(data)):
         f.write(data[i]["titleLong"] + "\n")
-        f.write(data[i]["description"] if data[i]["description"]
-                is not None else "No Description" + "\n")
+        f.write((data[i]["description"] if data[i]["description"]
+                is not None else "No Description") + "\n")
         if data[i]["enrollGroups"][0]["unitsMinimum"] != data[i]["enrollGroups"][0]["unitsMaximum"]:
             f.write("Credits: " + str(data[i]["enrollGroups"][0]["unitsMinimum"]) +
-                    "-" + str(data[i]["enrollGroups"][0]["unitsMaximum"]))
+                    "-" + str(data[i]["enrollGroups"][0]["unitsMaximum"]) + "\n")
         else:
             f.write("Credits: " + str(data[i]["enrollGroups"]
                     [0]["unitsMinimum"]) + "\n")
@@ -21,11 +21,18 @@ with open(file_name, 'w', encoding='utf-8') as f:
         f.write("Semesters Offered: " +
                 (sem_offered if sem_offered is not None else "None") + "\n")
         if data[i]["catalogPrereqCoreq"] == "":
-            f.write("Pre/Corequisites: None")
+            f.write("Pre/Corequisites: None" + "\n")
         else:
             pre_coreqs = data[i]["catalogPrereqCoreq"]
             f.write("Pre/Corequisites: " +
-                    (pre_coreqs if pre_coreqs is not None else "None"))
+                    (pre_coreqs if pre_coreqs is not None else "None") + "\n")
+        instructors = data[i]["enrollGroups"][0]["classSections"][0]["meetings"][0]["instructors"]
+        f.write("Instructors: ")
+        for i in range(len(instructors)):
+            if i != 0:
+                f.write(", ")
+            f.write(instructors[i]["firstName"] +
+                    " " + instructors[i]["lastName"])
         f.write("\n\n")
 
 # for i in range(len(data["enrollGroups"])):
