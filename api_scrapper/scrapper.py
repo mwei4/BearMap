@@ -1,7 +1,10 @@
 import requests
 import json
 
-url = "https://classes.cornell.edu/api/2.0/search/classes.json?roster=FA22&subject=CS"
+sem = "FA22"
+subject = "MATH"
+url = "https://classes.cornell.edu/api/2.0/search/classes.json?roster=" + \
+    sem + "&subject=" + subject
 response = requests.get(url)
 data = json.loads(response.text)["data"]["classes"]
 

@@ -1,0 +1,520 @@
+MATH 1011: Academic Support for MATH 1110
+Reviews material presented in MATH 1110 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1110 lectures.
+Credits: 1
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: 
+Crosslisted Courses: None
+
+MATH 1012: Academic Support for MATH 1120
+Reviews material presented in MATH 1120 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1120 lectures or discussions.
+Credits: 1
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: 
+Crosslisted Courses: None
+
+MATH 1021: Academic Support for MATH 2210
+Reviews material presented in MATH 2210 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 2210 lectures or discussions.
+Credits: 1
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: 
+Crosslisted Courses: None
+
+MATH 1101: Calculus Preparation
+Introduces topics in calculus: limits, rates of change, definition of and techniques for finding derivatives, relative and absolute extrema, and applications. The calculus content of the course is similar to 1/3 of the content covered in MATH 1106 and MATH 1110. In addition, the course includes a variety of topics of algebra, with emphasis on the development of linear, power, exponential, logarithmic, and trigonometric functions. Because of the strong emphasis on graphing, students will have a better understanding of asymptotic behavior of these functions.
+Credits: 1
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: 
+Crosslisted Courses: None
+
+MATH 1105: Finite Mathematics for the Life and Social Sciences
+Introduction to linear algebra, probability, and Markov chains that develops the parts of the theory most relevant for applications. Specific topics include equations of lines, the method of least squares, solutions of linear systems, matrices; basic concepts of probability, permutations, combinations, binomial distribution, mean and variance, and the normal approximation to the binomial distribution. Examples from biology and the social sciences are used.
+Credits: 3
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: three years of high school mathematics, including trigonometry and logarithms.
+Instructors: Rhiannon Griffiths
+Crosslisted Courses: None
+
+MATH 1110: Calculus I
+Topics include functions and graphs, limits and continuity, differentiation and integration of algebraic, trigonometric, inverse trig, logarithmic, and exponential functions; applications of differentiation, including graphing, max-min problems, tangent line approximation, implicit differentiation, and applications to the sciences; the mean value theorem; and antiderivatives, definite and indefinite integrals, the fundamental theorem of calculus, substitution in integration, the area under a curve. Graphing calculators are used, and their pitfalls are discussed, as applicable to the above topics.
+Credits: 4
+Semesters Offered: Fall, Spring, Summer.
+Pre/Corequisites: Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101).
+Instructors: 
+Crosslisted Courses: None
+
+MATH 1120: Calculus II
+Focuses on integration: applications, including volumes and arc length; techniques of integration, approximate integration with error estimates, improper integrals, differential equations (separation of variables, initial conditions, systems, some applications). Also covers infinite sequences and series: definition and tests for convergence, power series, Taylor series with remainder, and parametric equations.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: MATH 1110 with a grade of C or better, excellent performance in MATH 1106, or equivalent AP credit.
+Instructors: 
+Crosslisted Courses: None
+
+MATH 1300: Mathematical Explorations
+For students who wish to experience how mathematical ideas naturally evolve. The course emphasizes ideas and imagination rather than techniques and calculations. Homework involves students in actively investigating mathematical ideas. Topics vary depending on the instructor. Some assessment through writing assignments.
+Credits: 3
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: Ed Swartz
+Crosslisted Courses: None
+
+MATH 1710: Statistical Theory and Application in the Real World
+Introductory statistics course discussing techniques for analyzing data occurring in the real world and the mathematical and philosophical justification for these techniques. Topics include population and sample distributions, central limit theorem, statistical theories of point estimation, confidence intervals, testing hypotheses, the linear model, and the least squares estimator. The course concludes with a discussion of tests and estimates for regression and analysis of variance (if time permits). The computer is used to demonstrate some aspects of the theory, such as sampling distributions and the Central Limit Theorem. In the lab portion of the course, students learn and use computer-based methods for implementing the statistical methodology presented in the lectures.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: high school mathematics. No previous familiarity with computers presumed.
+Instructors: Michael Nussbaum
+Crosslisted Courses: None
+
+MATH 1910: Calculus for Engineers
+Essentially a second course in calculus. Topics include techniques of integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series, tests of convergence, and power series.
+Credits: 4
+Semesters Offered: Fall, Spring, Summer.
+Pre/Corequisites: Prerequisite: three years high school mathematics, including trigonometry and logarithms, and at least one course in differential and integral calculus or equivalent AP credit.
+Instructors: Clifford Pollock
+Crosslisted Courses: None
+
+MATH 1920: Multivariable Calculus for Engineers
+Introduction to multivariable calculus. Topics include partial derivatives, double and triple integrals, line and surface integrals, vector fields, Green's theorem, Stokes' theorem, and the divergence theorem.
+Credits: 4
+Semesters Offered: Fall, Spring, Summer.
+Pre/Corequisites: Prerequisite: MATH 1910 or equivalent AP credit.
+Instructors: Kelly Delp
+Crosslisted Courses: None
+
+MATH 2210: Linear Algebra
+Topics include vector algebra, linear transformations, matrices, determinants, orthogonality, eigenvalues, and eigenvectors. Applications are made to linear differential or difference equations. The lectures introduce students to formal proofs. Students are required to produce some proofs in their homework and on exams.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: two semesters of calculus with high performance, equivalent AP credit, or permission of department.
+Instructors: James West
+Crosslisted Courses: None
+
+MATH 2220: Multivariable Calculus
+Differential and integral calculus of functions in several variables, line and surface integrals as well as the theorems of Green, Stokes, and Gauss.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: MATH 2210.
+Instructors: Robert Connelly
+Crosslisted Courses: None
+
+MATH 2230: Theoretical Linear Algebra and Calculus
+Topics include vectors, matrices, and linear transformations; differential calculus of functions of several variables; inverse and implicit function theorems; quadratic forms, extrema, and manifolds; multiple and iterated integrals.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: two semesters of calculus with a grade of A- or better, equivalent AP credit, or permission of instructor.
+Instructors: Reyer Sjamaar
+Crosslisted Courses: None
+
+MATH 2310: Linear Algebra with Applications
+Introduction to linear algebra for students who wish to focus on the practical applications of the subject. A wide range of applications are discussed and computer software may be used. The main topics are systems of linear equations, matrices, determinants, vector spaces, orthogonality, and eigenvalues. Typical applications are population models, input/output models, least squares, and difference equations.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: one semester of college-level calculus, such as MATH 1106 or MATH 1110, or equivalent AP credit.
+Instructors: Liam Mazurowski
+Crosslisted Courses: None
+
+MATH 2930: Differential Equations for Engineers
+Introduction to ordinary and partial differential equations. Topics include: first-order equations (separable, linear, homogeneous, exact); mathematical modeling (e.g., population growth, terminal velocity); qualitative methods (slope fields, phase plots, equilibria, and stability); numerical methods; second-order equations (method of undetermined coefficients, application to oscillations and resonance, boundary-value problems and eigenvalues); and Fourier series. A substantial part of this course involves partial differential equations, such as the heat equation, the wave equation, and Laplace's equation. (This part must be present in any outside course being considered for transfer credit to Cornell as a substitute for MATH 2930.)
+Credits: 4
+Semesters Offered: Fall, Spring, Summer.
+Pre/Corequisites: Prerequisite: MATH 1920.
+Instructors: Richard Rand
+Crosslisted Courses: None
+
+MATH 2940: Linear Algebra for Engineers
+Linear algebra and its applications. Topics include: matrices, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and inner product spaces; applications include brief introductions to difference equations, Markov chains, and systems of linear ordinary differential equations. May include computer use in solving problems.
+Credits: 4
+Semesters Offered: Fall, Spring, Summer.
+Pre/Corequisites: Prerequisite: MATH 1920.
+Instructors: Michael Stillman
+Crosslisted Courses: None
+
+MATH 3040: Prove It!
+In mathematics, the methodology of proof provides a central tool for confirming the validity of mathematical assertions, functioning much as the experimental method does in the physical sciences. In this course, students learn various methods of mathematical proof, starting with basic techniques in propositional and predicate calculus and in set theory and combinatorics, and then moving to applications and illustrations of these via topics in one or more of the three main pillars of mathematics: algebra, analysis, and geometry. Since cogent communication of mathematical ideas is important in the presentation of proofs, the course emphasizes clear, concise exposition.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2940, or permission of instructor.
+Instructors: Robert Connelly
+Crosslisted Courses: None
+
+MATH 3110: Introduction to Analysis
+Provides a transition from calculus to real analysis. Topics include rigorous treatment of fundamental concepts in calculus: including limits and convergence of sequences and series, compact sets; continuity, uniform continuity and differentiability of functions. Emphasis is placed upon understanding and constructing mathematical proofs.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920 and MATH 2940.
+Instructors: 
+Crosslisted Courses: None
+
+MATH 3210: Manifolds and Differential Forms
+A manifold is a type of subset of Euclidean space that has a well-defined tangent space at every point. Such a set is amenable to the methods of multivariable calculus. After a review of some relevant calculus, this course investigates manifolds and the structures that they are endowed with, such as tangent vectors, boundaries, orientations, and differential forms. The notion of a differential form encompasses such ideas as area forms and volume forms, the work exerted by a force, the flow of a fluid, and the curvature of a surface, space, or hyperspace. The course re-examines the integral theorems of vector calculus (Green, Gauss, and Stokes) in the light of differential forms and applies them to problems in partial differential equations, topology, fluid mechanics, and electromagnetism.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: multivariable calculus and linear algebra (e.g., MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920 and MATH 2940).
+Instructors: Xiaodong Cao
+Crosslisted Courses: None
+
+MATH 3230: Introduction to Differential Equations
+A brief one-semester introduction to the theory and techniques of both ordinary and partial differential equations. Topics for ordinary differential equations may include initial-value and two-point boundary value problems, the basic existence and uniqueness theorems, continuous dependence on data, stability of fix-points, numerical methods, special functions. Topics for partial differential equations may include the Poisson, heat and wave equations, boundary and initial-boundary value problems, maximum principles, continuous dependence on data, separation of variables, Fourier series, Green's functions, numerical methods, transform methods.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: multivariable calculus and linear algebra (e.g., MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920 and MATH 2940), or permission of instructor.
+Instructors: William Clark
+Crosslisted Courses: None
+
+MATH 3320: Introduction to Number Theory
+An introductory course on number theory, the branch of algebra that studies the deeper properties of integers and their generalizations. Usually includes most of the following topics: the Euclidean algorithm, continued fractions, Pythagorean triples, Diophantine equations such as Pell's equation, congruences, quadratic reciprocity, binary quadratic forms, Gaussian integers, and factorization in quadratic number fields. May include a brief introduction to Fermat's Last Theorem.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940.
+Instructors: David Zywina
+Crosslisted Courses: None
+
+MATH 3340: Abstract Algebra
+An introduction to structures of abstract algebra, including groups, rings, fields, factorization of polynomials and integers, congruences, and the structure of finite abelian groups. Additional topics include modules over Euclidean domain and Sylow theorems.
+Credits: 4
+Semesters Offered: Spring.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940.
+Instructors: Ed Swartz
+Crosslisted Courses: None
+
+MATH 3610: Mathematical Modeling
+Introduction to the theory and practice of mathematical modeling. This course compares and contrasts different types of mathematical models (discrete vs. continuous, deterministic vs. stochastic), focusing on advantages, disadvantages and limits of applicability for each approach. Case-study format covers a variety of application areas including economics, physics, sociology, traffic engineering, urban planning, robotics, and resource management. Students learn how to implement mathematical models on the computer and how to interpret/describe the results of their computational experiments.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: two semesters of calculus or permission of instructor.
+Instructors: Alexander Vladimirsky
+Crosslisted Courses: None
+
+MATH 4130: Honors Introduction to Analysis I
+Introduction to the rigorous theory underlying calculus, covering the real number system and functions of one variable. Based entirely on proofs. The student is expected to know how to read and, to some extent, construct proofs before taking this course. Topics typically include construction of the real number system, properties of the real number system, continuous functions, differential and integral calculus of functions of one variable, sequences and series of functions.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: high level of performance in MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920 and MATH 2940 and familiarity with proofs.
+Instructors: Camil Muscalu
+Crosslisted Courses: None
+
+MATH 4200: Differential Equations and Dynamical Systems
+Covers ordinary differential equations in one and higher dimensions: qualitative, analytic, and numerical methods. Emphasis is on differential equations as models and the implications of the theory for the behavior of the system being modeled and includes an introduction to bifurcations.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: high level of performance in MATH 2210-MATH 2220, MATH 2230-MATH 2240, MATH 1920 and MATH 2940, or permission of instructor. Students will be expected to be comfortable with proofs.
+Instructors: John Hubbard
+Crosslisted Courses: MATH 5200
+
+MATH 4220: Applied Complex Analysis
+Covers complex variables, Fourier transforms, Laplace transforms and applications to partial differential equations. Additional topics may include an introduction to generalized functions.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210-MATH 2220, MATH 2230-MATH 2240, MATH 1920 and MATH 2940, or MATH 2130 and MATH 2310. Students will be expected to be comfortable with proofs.
+Instructors: Steven Strogatz
+Crosslisted Courses: MATH 5220
+
+MATH 4250: Numerical Analysis and Differential Equations
+Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210, or MATH 2940 or equivalent, one additional mathematics course numbered 3000 or above, and knowledge of programming. Students will be expected to be comfortable with proofs.
+Instructors: Alexander Vladimirsky
+Crosslisted Courses: CS 4210, MATH 5250
+
+MATH 4310: Linear Algebra
+Introduction to linear algebra, including the study of vector spaces, linear transformations, matrices, and systems of linear equations. Additional topics are quadratic forms and inner product spaces, canonical forms for various classes of matrices and linear transformations.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940. Students will be expected to be comfortable with proofs.
+Instructors: Kathryn Mann
+Crosslisted Courses: None
+
+MATH 4315: Linear Algebra with Supplements
+The main focus is on linear algebra, including the study of vector spaces, maps and matrices. Additional topics introduce groups, fields, rings, ideals, and algebraic geometry. The course provides a wide background of the basic concepts in algebra.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940. Students will be expected to be comfortable with proofs.
+Instructors: Irena Peeva
+Crosslisted Courses: None
+
+MATH 4330: Honors Linear Algebra
+Honors version of a course in advanced linear algebra, which treats the subject from an abstract and axiomatic viewpoint. Topics include vector spaces, linear transformations, polynomials, determinants, tensor and wedge products, canonical forms, inner product spaces, and bilinear forms. Emphasis is on understanding the theory of linear algebra; homework and exams include at least as many proofs as computational problems.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: high level of performance in MATH 2210, MATH 2230, MATH 2310, or MATH 2940.
+Instructors: Allen Knutson
+Crosslisted Courses: None
+
+MATH 4410: Introduction to Combinatorics I
+Combinatorics is the study of discrete structures that arise in a variety of areas, particularly in other areas of mathematics, computer science, and many areas of application. Central concerns are often to count objects having a particular property (e.g., trees) or to prove that certain structures exist (e.g., matchings of all vertices in a graph). The first semester of this sequence covers basic questions in graph theory, including extremal graph theory (how large must a graph be before one is guaranteed to have a certain subgraph) and Ramsey theory (which shows that large objects are forced to have structure). Variations on matching theory are discussed, including theorems of Dilworth, Hall, König, and Birkhoff, and an introduction to network flow theory. Methods of enumeration (inclusion/exclusion, Möbius inversion, and generating functions) are introduced and applied to the problems of counting permutations, partitions, and triangulations.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940. Students will be expected to be comfortable with proofs.
+Instructors: Karola Meszaros
+Crosslisted Courses: MATH 5410
+
+MATH 4530: Introduction to Topology
+Topology may be described briefly as qualitative geometry. This course begins with basic point-set topology, including connectedness, compactness, and metric spaces. Later topics may include the classification of surfaces (such as the Klein bottle and Möbius band), elementary knot theory, or the fundamental group and covering spaces.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940, plus at least one mathematics course numbered 3000 or above, or permission of instructor. Students will be expected to be comfortable with proofs.
+Instructors: 
+Crosslisted Courses: None
+
+MATH 4560: Geometry of Discrete Groups
+An introduction to the geometric approach to the theory of infinite discrete groups. Topics include group actions, the construction of Cayley graphs, connections to formal language theory, actions on trees, volume growth, and large-scale geometry. Theorems are balanced by specific examples such as Baumslag-Solitar groups, the Lamplighter group, and Thompson's groups.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: an introduction to groups via MATH 3340, MATH 3360, MATH 4340, or MATH 4500, or permission of instructor. Students will be expected to be comfortable with proofs.
+Instructors: Jason Manning
+Crosslisted Courses: None
+
+MATH 4710: Basic Probability
+Introduction to probability theory, which prepares the student to take MATH 4720. The course begins with basics: combinatorial probability, mean and variance, independence, conditional probability, and Bayes formula. Density and distribution functions and their properties are introduced. The law of large numbers and the central limit theorem are stated and their implications for statistics are discussed.
+Credits: 4
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: Prerequisite: one year of calculus. Recommended prerequisite: some knowledge of multivariate calculus. Students will be expected to be comfortable with proofs.
+Instructors: 
+Crosslisted Courses: None
+
+MATH 4810: Mathematical Logic
+First course in mathematical logic providing precise definitions of the language of mathematics and the notion of proof (propositional and predicate logic). The completeness theorem says that we have all the rules of proof we could ever have. The Gödel incompleteness theorem says that they are not enough to decide all statements even about arithmetic. The compactness theorem exploits the finiteness of proofs to show that theories have unintended (nonstandard) models. Possible additional topics: the mathematical definition of an algorithm and the existence of noncomputable functions; the basics of set theory to cardinality and the uncountability of the real numbers.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2220 or MATH 2230 and preferably some additional course involving proofs in mathematics, computer science, or philosophy.
+Instructors: Slawomir Solecki
+Crosslisted Courses: PHIL 4310
+
+MATH 4820: Topics in Logic and the Foundations of Mathematics
+Advanced discussion of a topic in logic or foundational mathematics.
+Credits: 4
+Semesters Offered: Spring.
+Pre/Corequisites: Prerequisite: PHIL 2310, MATH 2810/PHIL 3310, MATH 3840/PHIL 3300, or permission of instructor.
+Instructors: James Walsh
+Crosslisted Courses: PHIL 4311, PHIL 6311
+
+MATH 4900: Supervised Research
+An independent research course by arrangement with an individual professor.  The goal is for the student to perform an independent investigation into a specific mathematical question.  The student and professor will set expectations and grading policies at the beginning of the term.
+Credits: 1-6
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: Marcelo Aguiar
+Crosslisted Courses: None
+
+MATH 4901: Supervised Reading
+An independent reading course by arrangement with an individual professor. The goal is for the student to master a body of mathematics outside the normal curriculum. The student and professor will set expectations and grading policies at the beginning of the term.
+Credits: 1-6
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: Marcelo Aguiar
+Crosslisted Courses: None
+
+MATH 4980: Special Study for Mathematics Teaching
+Examines principles underlying the content of the secondary school mathematics curriculum, including connections with the history of mathematics, technology, and mathematics education research. One credit is awarded for attending two Saturday workshops (see math.cornell.edu/math-5080) and writing a paper. Other credit options are available for students completing additional work, such as tutoring at a local middle school or completing a research paper or project.
+Credits: 1-3
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: Mary Ann Huntley
+Crosslisted Courses: MATH 5080
+
+MATH 5080: Special Study for Teachers
+Examines principles underlying the content of the secondary school mathematics curriculum, including connections with the history of mathematics, technology, and mathematics education research. One credit is awarded for attending two Saturday workshops (see math.cornell.edu/math-5080) and writing a paper.
+Credits: 1
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: Mary Ann Huntley
+Crosslisted Courses: MATH 4980
+
+MATH 5200: Differential Equations and Dynamical Systems
+No Description
+Credits: 4
+Semesters Offered: None
+Pre/Corequisites: None
+Instructors: John Hubbard
+Crosslisted Courses: MATH 4200
+
+MATH 5220: Applied Complex Analysis
+No Description
+Credits: 4
+Semesters Offered: None
+Pre/Corequisites: None
+Instructors: Steven Strogatz
+Crosslisted Courses: MATH 4220
+
+MATH 5250: Numerical Analysis and Differential Equations
+Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210 or MATH 2940 or equivalent, one additional mathematics course numbered 3000 or above, and knowledge of programming. Students will be expected to be comfortable with proofs.
+Instructors: Alexander Vladimirsky
+Crosslisted Courses: CS 4210, MATH 4250
+
+MATH 5410: Introduction to Combinatorics I
+Combinatorics is the study of discrete structures that arise in a variety of areas, particularly in other areas of mathematics, computer science, and many areas of application. Central concerns are often to count objects having a particular property (e.g., trees) or to prove that certain structures exist (e.g., matchings of all vertices in a graph). The first semester of this sequence covers basic questions in graph theory, including extremal graph theory (how large must a graph be before one is guaranteed to have a certain subgraph) and Ramsey theory (which shows that large objects are forced to have structure). Variations on matching theory are discussed, including theorems of Dilworth, Hall, König, and Birkhoff, and an introduction to network flow theory. Methods of enumeration (inclusion/exclusion, Möbius inversion, and generating functions) are introduced and applied to the problems of counting permutations, partitions, and triangulations.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940. Students will be expected to be comfortable with proofs.
+Instructors: Karola Meszaros
+Crosslisted Courses: MATH 4410
+
+MATH 6110: Real Analysis
+MATH 6110-MATH 6120 are the core analysis courses in the mathematics graduate program. MATH 6110 covers measure and integration and functional analysis.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: strong performance in an undergraduate analysis course at the level of MATH 4140, or permission of instructor.
+Instructors: Camil Muscalu
+Crosslisted Courses: None
+
+MATH 6160: Partial Differential Equations
+This course highlights applications of functional analysis to the theory of partial differential equations (PDEs).  It covers parts of the basic theory of linear (elliptic and evolutionary) PDEs, including Sobolev spaces, existence and uniqueness of solutions, interior and boundary regularity, maximum principles, and eigenvalue problems.  Additional topics may include: an introduction to variational problems, Hamilton-Jacobi equations, and other modern techniques for non-linear PDEs.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 4130, MATH 4140, or the equivalent, or permission of instructor.
+Instructors: Timothy Healey
+Crosslisted Courses: None
+
+MATH 6210: Measure Theory and Lebesgue Integration
+Covers measure theory, integration, and Lp spaces.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: Philippe Sosoe
+Crosslisted Courses: None
+
+MATH 6260: Dynamical Systems
+Topics include existence and uniqueness theorems for ODEs; Poincaré-Bendixon theorem and global properties of two dimensional flows; limit sets, nonwandering sets, chain recurrence, pseudo-orbits and structural stability; linearization at equilibrium points: stable manifold theorem and the Hartman-Grobman theorem; and generic properties: transversality theorem and the Kupka-Smale theorem. Examples include expanding maps and Anosov diffeomorphisms; hyperbolicity: the horseshoe and the Birkhoff-Smale theorem on transversal homoclinic orbits; rotation numbers; Herman's theorem; and characterization of structurally stable systems.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: John Hubbard
+Crosslisted Courses: None
+
+MATH 6310: Algebra
+MATH 6310-MATH 6320 are the core algebra courses in the mathematics graduate program. MATH 6310 covers group theory, especially finite groups; rings and modules; ideal theory in commutative rings; arithmetic and factorization in principal ideal domains and unique factorization domains; introduction to field theory; tensor products and multilinear algebra. (Optional topic: introduction to affine algebraic geometry.)
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: strong performance in an undergraduate abstract algebra course at the level of MATH 4340, or permission of instructor.
+Instructors: Allen Knutson
+Crosslisted Courses: None
+
+MATH 6330: Noncommutative Algebra
+An introduction to the theory of noncommutative rings and modules. Topics vary by semester and include semisimple modules and rings, the Jacobson radical and Artinian rings, group representations and group algebras, characters of finite groups, representations of the symmetric group, central simple algebras and the Brauer group, representation theory of finite-dimensional algebras, Morita theory.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 6310-MATH 6320, or permission of instructor.
+Instructors: Marcelo Aguiar
+Crosslisted Courses: None
+
+MATH 6340: Commutative Algebra with Applications in Algebraic Geometry
+Covers Dedekind domains, primary decomposition, Hilbert basis theorem, and local rings.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: Irena Peeva
+Crosslisted Courses: None
+
+MATH 6520: Differentiable Manifolds
+MATH 6510-MATH 6520 are the core topology courses in the mathematics graduate program. MATH 6520 is an introduction to geometry and topology from a differentiable viewpoint, suitable for beginning graduate students. The objects of study are manifolds and differentiable maps. The collection of all tangent vectors to a manifold forms the tangent bundle, and a section of the tangent bundle is a vector field. Alternatively, vector fields can be viewed as first-order differential operators. Students study flows of vector fields and prove the Frobenius integrability theorem. In the presence of a Riemannian metric, the notions of parallel transport, curvature, and geodesics are development. Students examine the tensor calculus and the exterior differential calculus and prove Stokes' theorem. If time permits, de Rham cohomology, Morse theory, or other optional topics are introduced.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: strong performance in analysis (e.g., MATH 4130 and/or MATH 4140), linear algebra (e.g., MATH 4310), and point-set topology (e.g., MATH 4530), or permission of instructor.
+Instructors: Reyer Sjamaar
+Crosslisted Courses: None
+
+MATH 6530: K-Theory and Characteristic Classes
+An introduction to topological K-theory and characteristic classes. Topological K-theory is a generalized cohomology theory which is surprisingly simple and useful for computation while still containing enough structure for proving interesting results. The class will begin with the definition of K-theory, Chern classes, and the Chern character. Additional topics may include the Hopf invariant 1 problem, the J-homomorphism, Stiefel-Whitney classes and Pontrjagin classes, cobordism groups and the construction of exotic spheres, and the Atiyah-Singer Index Theorem.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 6510, or permission of instructor.
+Instructors: Inna Zakharevich
+Crosslisted Courses: None
+
+MATH 6710: Probability Theory I
+A mathematically rigorous course in probability theory which uses measure theory but begins with the basic definitions of independence and expected value in that context. Law of large numbers, Poisson and central limit theorems, and random walks.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: knowledge of Lebesgue integration theory, at least on real line. Students can learn this material by taking parts of MATH 4130-MATH 4140 or MATH 6210.
+Instructors: Lionel Levine
+Crosslisted Courses: None
+
+MATH 6740: Mathematical Statistics II
+Focuses on the foundations of statistical inference, with an emphasis on asymptotic methods and the minimax optimality criterion. In the first part, the solution of the classical problem of justifying Fisher's information bound in regular statistical models will be presented. This solution will be obtained applying the concepts of contiguity, local asymptotic normality and asymptotic minimaxity. The second part will be devoted to nonparametric estimation, taking a Gaussian regression model as a paradigmatic example. Key topics are kernel estimation and local polynomial approximation, optimal rates of convergence at a point and in global norms, and adaptive estimation. Optional topics may include irregular statistical models, estimation of functionals and nonparametric hypothesis testing.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: MATH 6710 (measure theoretic probability) and STSCI 6730/MATH 6730, or permission of instructor.
+Instructors: Michael Nussbaum
+Crosslisted Courses: STSCI 6740
+
+MATH 6870: Set Theory
+First course in axiomatic set theory at the level of the book by Kunen.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: Justin Moore
+Crosslisted Courses: None
+
+MATH 7290: Seminar on Scientific Computing and Numerics
+Talks on various methods in scientific computing, the analysis of their convergence properties and computational efficiency, and their adaptation to specific applications.
+Credits: 1
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: Anil Damle, Alex Townsend
+Crosslisted Courses: CS 7290
+
+MATH 7350: Topics in Homological Algebra
+Selection of advanced topics from homological algebra. Course content varies.
+Credits: 4
+Semesters Offered: Fall or Spring.
+Pre/Corequisites: None
+Instructors: Yuri Berest
+Crosslisted Courses: None
+
+MATH 7570: Topics in Topology
+No Description
+Credits: 4
+Semesters Offered: None
+Pre/Corequisites: None
+Instructors: Jason Manning
+Crosslisted Courses: None
+
+MATH 7610: Topics in Geometry
+Selection of advanced topics from modern geometry. Content varies.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: Xin Zhou
+Crosslisted Courses: None
+
+MATH 7710: Topics in Probability Theory
+Selection of advanced topics from probability theory. Content varies.
+Credits: 4
+Semesters Offered: Spring.
+Pre/Corequisites: None
+Instructors: Andrew Ahn
+Crosslisted Courses: None
+
+MATH 7740: Statistical Learning Theory: Classification, Pattern Recognition, Machine Learning
+The course aims to present the developing interface between machine learning theory and statistics. Topics include an introduction to classification and pattern recognition; the connection to nonparametric regression is emphasized throughout. Some classical statistical methodology is reviewed, like discriminant analysis and logistic regression, as well as the notion of perception which played a key role in the development of machine learning theory. The empirical risk minimization principle is introduced, as well as its justification by Vapnik-Chervonenkis bounds. In addition, convex majoring loss functions and margin conditions that ensure fast rates and computable algorithms are discussed. Today's active high-dimensional statistical research topics such as oracle inequalities in the context of model selection and aggregation, lasso-type estimators, low rank regression and other types of estimation problems of sparse objects in high-dimensional spaces are presented.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: Prerequisite: basic mathematical statistics (STSCI 6730/MATH 6730 or equivalent) and measure theoretic probability (MATH 6710).
+Instructors: Marten Wegkamp
+Crosslisted Courses: None
+
+MATH 7810: Seminar in Logic
+A twice weekly seminar in logic. Typically, a topic is selected for each semester, and at least half of the meetings of the course are devoted to this topic with presentations primarily by students. Opportunities are also provided for students and others to present their own work and other topics of interest.
+Credits: 4
+Semesters Offered: Fall.
+Pre/Corequisites: None
+Instructors: Slawomir Solecki
+Crosslisted Courses: None
+
+MATH 7900: Supervised Reading and Research
+Supervised research for the doctoral dissertation.
+Credits: 1-6
+Semesters Offered: Fall, Spring.
+Pre/Corequisites: None
+Instructors: 
+Crosslisted Courses: None
+
