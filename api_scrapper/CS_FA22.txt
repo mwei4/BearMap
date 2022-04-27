@@ -1,624 +1,713 @@
-Introduction to Computing Using Python
+CS 1110: Introduction to Computing Using Python
 Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming. Weekly labs provide guided practice on the computer, with staff present to help. 
 Credits: 4
 Semesters Offered: Fall, Spring, Summer.
 Pre/Corequisites: None
 Instructors: Walker White
+Crosslisted Courses: None
 
-Introduction to Computing Using MATLAB
+CS 1112: Introduction to Computing Using MATLAB
 Programming and problem solving using MATLAB. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays, recursion, object-oriented programming, and MATLAB graphics. Assignments are designed to build an appreciation for complexity, dimension, fuzzy data, inexact arithmetic, randomness, simulation, and the role of approximation.
 Credits: 4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Corequisite: MATH 1110, MATH 1910, or equivalent.
 Instructors: Dominic Diaz
+Crosslisted Courses: None
 
-Short Course in Python
+CS 1133: Short Course in Python
 Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Designed for students who need Python for research or other courses. Does not assume any previous programming experience.
 Credits: 2
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Craig Frey
+Crosslisted Courses: None
 
-Introductory Design and Programming for the Web
+CS 1300: Introductory Design and Programming for the Web
 The World Wide Web is both a technology and a pervasive and powerful resource in our society and culture. To build functional and effective web sites, students need technical and design skills as well as analytical skills for understanding who is using the web, in what ways they are using it, and for what purposes. In this course, students develop skills in all three of these areas through the use of technologies such as XHTML, Cascading Stylesheets, and PHP. Students study how web sites are deployed and used, usability issues on the web, user-centered design, and methods for visual layout and information architecture. Through the web, this course provides an introduction to the interdisciplinary field of information science.
 Credits: 3
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Kyle Harms
+Crosslisted Courses: INFO 1300
 
-Freshmen and Nontechnical Team Projects
+CS 1998: Freshmen and Nontechnical Team Projects
 Freshmen and Nontechnical Team Projects.
 Credits: 1-3
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Walker White
+Crosslisted Courses: None
 
-C++ Programming
+CS 2024: C++ Programming
 An intermediate introduction to the C++ programming language and the C/C++ standard libraries. Topics include basic statements, declarations, and types; stream I/O; user-defined classes and types; derived classes, inheritance, and object-oriented programming; exceptions and templates. Recommended for students who plan to take advanced courses in computer science that require familiarity with C++ or C.
 Credits: 2
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: one programming course or equivalent programming experience.
 Instructors: Ronald DiNapoli
+Crosslisted Courses: None
 
-Object-Oriented Programming and Data Structures
+CS 2110: Object-Oriented Programming and Data Structures
 Intermediate programming in a high-level language and introduction to computer science. Topics include object-oriented programming (classes, objects, subclasses, types), graphical user interfaces, algorithm analysis (asymptotic complexity, big "O" notation), recursion, testing, program correctness (loop invariants), searching/sorting, data structures (lists, trees, stacks, queues, heaps, search trees, hash tables, graphs), graph algorithms. Java is the principal programming language.
 Credits: 3
 Semesters Offered: Fall, Spring, Summer.
 Pre/Corequisites: Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language.
 Instructors: Curran Muhlberger, Andrew Myers
+Crosslisted Courses: ENGRD 2110
 
-Object-Oriented Design and Data Structures - Honors
+CS 2112: Object-Oriented Design and Data Structures - Honors
 Honors version of CS 2110/ENGRD 2110; credit is given for only one of CS 2110 and 2112. Corrective transfer between CS 2110 and 2112 (in either direction) is encouraged during first three weeks. Intermediate software design and introduction to key computer science ideas. Topics are similar to those in CS 2110 but are covered in greater depth, with more challenging assignments. Topics include object-oriented programming, program structure and organization, program reasoning using specifications and invariants, recursion, design patterns, concurrent programming, graphical user interfaces, data structures as in CS 2110, sorting and graph algorithms, asymptotic complexity, and simple algorithm analysis. Java is the principal programming language.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: very good performance in CS 1110 or equivalent course in Java or C++, or permission of instructor.
 Instructors: Nate Foster
+Crosslisted Courses: ENGRD 2112
 
-Discrete Structures
+CS 2800: Discrete Structures
 Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and predicate calculus; combinatorics and discrete mathematics; some basic elements of basic probability theory; basic number theory; sets, functions, and relations; graphs; and finite-state machines. These topics are discussed in the context of applications to many areas of computer science, such as the RSA cryptosystem and web searching.
 Credits: 3
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite or corequisite: one programming course or permission of instructor.
 Instructors: Alexandra Silva
+Crosslisted Courses: None
 
-Networks
+CS 2850: Networks
 This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: None
 Instructors: David Easley, Jon Kleinberg
+Crosslisted Courses: ECON 2040, INFO 2040, SOC 2090
 
-Data Structures and Functional Programming
+CS 3110: Data Structures and Functional Programming
 Advanced programming course that emphasizes functional programming techniques and data structures. Programming topics include recursive and higher-order procedures, models of programming language evaluation and compilation, type systems, and polymorphism. Data structures and algorithms covered include graph algorithms, balanced trees, memory heaps, and garbage collection. Also covers techniques for analyzing program performance and correctness.
 Credits: 4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800. Should not be taken concurrently with CS 3410 or CS 3420.
 Instructors: Michael Clarkson
+Crosslisted Courses: None
 
-Data-Driven Web Applications
+CS 3300: Data-Driven Web Applications
 This course will introduce students to working with data in the context of modern web applications. These include data representation with relational and non-relational databases, data mining to find patterns and make predictions, and graphical presentation for visualization.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110/ENGRD 2110 and CS 2300, or permission of instructor.
 Instructors: Jeff Rzeszotarski
+Crosslisted Courses: INFO 3300, INFO 5100
 
-Computer System Organization and Programming
+CS 3410: Computer System Organization and Programming
 Introduction to computer organization, systems programming and the hardware/ software interface. Topics include instruction sets, computer arithmetic, datapath design, data formats, addressing modes, memory hierarchies including caches and virtual memory, I/O devices, bus-based I/O systems, and multicore architectures. Students learn assembly language programming and design a pipelined RISC processor.
 Credits: 4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: CS 2110 or equivalent programming experience. Recommended prerequisite: CS 2024. Should not take CS 3110 concurrently.
 Instructors: Anne Bracy
+Crosslisted Courses: None
 
-Teaching Experience in Computer Science
+CS 4090: Teaching Experience in Computer Science
 Earn course credit for working as a consultant or ugrad TA in a computer science course.
 Credits: 1-4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Anke van Zuylen
+Crosslisted Courses: None
 
-Numerical Analysis and Differential Equations
+CS 4210: Numerical Analysis and Differential Equations
 Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: MATH 2210 or MATH 2940 or equivalent, one additional mathematics course numbered 3000 or above, knowledge of programming. Students will be expected to be comfortable with proofs.
 Instructors: Alexander Vladimirsky
+Crosslisted Courses: MATH 4250, MATH 5250
 
-Introduction to Database Systems
+CS 4320: Introduction to Database Systems
 Introduction to modern database and data storage systems. Concepts covered include data models, query languages, database designs, storage structures, access methods, query processing and optimization, transaction management, and recovery in both relational and nonrelation data storage systems.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110, CS 2800.
 Instructors: Immanuel Trummer
+Crosslisted Courses: CS 5320
 
-Practicum in Database Systems
+CS 4321: Practicum in Database Systems
 Students build part of a database system in Java.
 Credits: 2
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite or corequisite: CS 5320.
 Instructors: Immanuel Trummer
+Crosslisted Courses: None
 
-Operating Systems
+CS 4410: Operating Systems
 Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed.
 Credits: 3
 Semesters Offered: Fall, Spring, Summer.
 Pre/Corequisites: Prerequisite: CS 3410 or CS 3420.
 Instructors: Lorenzo Alvisi
+Crosslisted Courses: CS 5410
 
-Practicum in Operating Systems
+CS 4411: Practicum in Operating Systems
 Studies the practical aspects of operating systems through the design and implementation of an operating system kernel that supports multiprogramming, virtual memory, and various input-output devices. All the programming for the project is in a high-level language.
 Credits: 2
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Corequisite: CS 4410.
 Instructors: Lorenzo Alvisi
+Crosslisted Courses: CS 5411
 
-Computer Architecture
+CS 4420: Computer Architecture
 This course aims to provide a strong foundation for students to understand modern computer system architecture and to apply these insights and principles to future computer designs. The course is structured around the three primary building blocks of general-purpose computing systems: processors, memories, and networks. The first half of the course focuses on the fundamentals of each building block. Topics include processor microcoding and pipelining; cache microarchitecture and optimization; and network topology, routing, and flow control. The second half of the course delves into more advanced techniques and will enable students to understand how these three building blocks can be integrated to build a modern shared-memory multicore system. Topics include superscalar execution, branch prediction, out-of-order execution, register renaming and memory disambiguation; VLIW, vector, and multithreaded processors; memory protection, translation, and virtualization; and memory synchronization, consistency, and coherence. This course includes a significant project decomposed into five lab assignments. Throughout the semester, students will gradually design, implement, test, and evaluate a complete multicore system capable of running real parallel applications at the register-transfer level.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 3420/ECE 3140 or CS 3410.
 Instructors: Christina Delimitrou
+Crosslisted Courses: ECE 4750, ECE 5740
 
-Introduction to Computer Networks
+CS 4450: Introduction to Computer Networks
 This course introduces the basic architectural and design principles of computer networking including the design of communication protocols, congestion control, routing and switching, Internet, data center networks and wireless networks.
 Credits: 3
 Semesters Offered: Spring.
 Pre/Corequisites: Recommended prerequisite: CS 4410.
 Instructors: Rachit Agarwal
+Crosslisted Courses: CS 5456
 
-Introduction to Computer Graphics
+CS 4620: Introduction to Computer Graphics
 Introduction to the principles of computer graphics in two and three dimensions.  Topics include digital images, filtering and antialiasing, 2-D and 3-D affine geometry, ray tracing, perspective and 3-D viewing, the graphics pipeline, curves and surfaces, and human visual perception. This course emphasizes fundamental techniques in graphics, with both written and practical assignments.  May be taken with or without concurrent enrollment in CS 4621.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110/ENGRD 2110.
 Instructors: Abe Davis
+Crosslisted Courses: CS 5620
 
-Computer Graphics Practicum
+CS 4621: Computer Graphics Practicum
 Provides CS 4620 students with hands-on experience in computer graphics programming on modern graphics hardware. This course emphasizes effective use of graphics APIs and the architecture of graphics applications.  A final project involves building a substantial interactive graphics system.  The course uses Javascript and WebGL for code development.
 Credits: 2
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite or corequisite: CS 4620.
 Instructors: Abe Davis
+Crosslisted Courses: CS 5621
 
-Foundations of Artificial Intelligence
+CS 4700: Foundations of Artificial Intelligence
 Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include: knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.
 Credits: 3
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.
 Instructors: Bart Selman
+Crosslisted Courses: CS 5700
 
-Practicum in Artificial Intelligence
+CS 4701: Practicum in Artificial Intelligence
 Artificial Intelligence project class. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetic algorithms, planning, natural language processing, computer vision. Should be taken only by students with significant experience in Artificial Intelligence, such as those who have already taken CS 4700, CS 4780, CS 4670, or CS 4740.
 Credits: 2
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780.
 Instructors: Bart Selman
+Crosslisted Courses: CS 5701
 
-Natural Language Processing
+CS 4740: Natural Language Processing
 This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today's most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. Possible topics include methods for handling underlying linguistic phenomena (e.g., syntactic analysis, word sense disambiguation and discourse analysis) and vital emerging applications (e.g., machine translation, sentiment analysis, summarization and information extraction). 
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110.
 Instructors: Lillian Lee, Marten van Schijndel
+Crosslisted Courses: COGST 4740, CS 5740, LING 4474
 
-Foundations of Robotics
+CS 4750: Foundations of Robotics
 Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester. Students will also participate in group projects towards the end of the semester, in which they will implement algorithms discussed in class to real robotics problems.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: MATH 1920 or MATH 2220, and MATH 2940, and CS 1110 or permission of instructor. Recommended corequisite: CS 1133 and CS 3220.
 Instructors: Tapomayukh Bhattacharjee
+Crosslisted Courses: CS 5750, ECE 4770, MAE 4760
 
-Computational Genetics and Genomics
+CS 4775: Computational Genetics and Genomics
 Computational methods for analyzing genetic and genomic data. Topics include sequence alignment, hidden Markov Models for discovering sequence features, motif finding using Gibbs sampling, phylogenetic tree reconstruction, inferring haplotypes, and local and global ancestry inference. Prior knowledge of biology is not necessary to complete this course.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: BTRY 3010, CS 2110 or equivalents.
 Instructors: Jaehee Kim
+Crosslisted Courses: BTRY 4840, BTRY 6840
 
-Introduction to Machine Learning
+CS 4780: Introduction to Machine Learning
 The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.
 Credits: 4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).
 Instructors: Anil Damle, Wen Sun
+Crosslisted Courses: CS 5780
 
-Principles of Large-Scale Machine Learning Systems
+CS 4787: Principles of Large-Scale Machine Learning Systems
 An introduction to the mathematical and algorithms design principles and tradeoffs that underlie large-scale machine learning on big training sets. Topics include: stochastic gradient descent and other scalable optimization methods, mini-batch training, accelerated methods, adaptive learning rates, parallel and distributed training, and quantization and model compression.
 Credits: 4
 Semesters Offered: Spring.
 Pre/Corequisites: Prerequisite: CS 4780 or CS 5780, CS 2110 or equivalents.
 Instructors: Christopher De Sa
+Crosslisted Courses: CS 5777
 
-Quantum Information Processing
+CS 4812: Quantum Information Processing
 Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a general purpose quantum computer remains a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering new perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by quantum theory. This course is intended for physicists, unfamiliar with computational complexity theory or cryptography, and for computer scientists and mathematicians with prior exposure to quantum mechanics. Topics include: simple quantum algorithms, error correction, cryptography, teleportation, and uses of quantum computing devices either currently available or to be available in the near future.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: PHYS 3316 or AEP 3610.
 Instructors: Paul Ginsparg
+Crosslisted Courses: AEP 4812, AEP 7681, PHYS 4481, PHYS 7681
 
-Introduction to Analysis of Algorithms
+CS 4820: Introduction to Analysis of Algorithms
 Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases , approximation algorithms, local search heuristics, and online algorithms).
 Credits: 4
 Semesters Offered: Fall, Spring, Summer.
 Pre/Corequisites: Prerequisite: CS 2800, CS 3110. 
 Instructors: Anke van Zuylen
+Crosslisted Courses: CS 5820
 
-Practical Training in Computer Science
+CS 4997: Practical Training in Computer Science
 This independent study course offers CS majors (i.e., undergraduates whose applications to affiliate with the CS major have been approved) an opportunity to reflect on concepts from computer science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the computer science major.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Lillian Lee
+Crosslisted Courses: None
 
-Team Projects
+CS 4998: Team Projects
 Advanced independent work in computer science as part of a student-led team project. 
 Credits: 1-4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Rachit Agarwal
+Crosslisted Courses: None
 
-Independent Reading and Research
+CS 4999: Independent Reading and Research
 Independent reading and research for undergraduates.
 Credits: 1-4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Tapomayukh Bhattacharjee
+Crosslisted Courses: None
 
-Software Testing
+CS 5154: Software Testing
 Software testing is a widely used approach for detecting flaws in software. Systematic and organized approaches to software testing will be covered, including test adequacy criteria, manual and automatic generation of test inputs, regression testing, debugging, and dynamic analyses for detecting known classes of software errors.
 Credits: 3
 Semesters Offered: Fall or Spring.
 Pre/Corequisites: Prerequisite: graduate standing in CS, or CS majors who have taken CS 3110 or CS 4120, or permission of instructor required.
 Instructors: Owolabi Legunsen
+Crosslisted Courses: None
 
-Crowdsourcing and Human Computation
+CS 5306: Crowdsourcing and Human Computation
 "Crowdsourcing" and "human computation" refer to various ways that people and computing have been brought together to achieve outcomes that were previously beyond our individual capabilities or expectations. Google's search algorithms, Wikipedia's millions of articles, Amazon's recommendations, and the success of Linux and other open source software projects are examples of ways in which technology and people together have exceeded the capabilities of people or machines in isolation. This course will survey the state of the art in this area, giving practical knowledge of the area, grounded in examples in such areas as artificial intelligence, citizen science, computational photography, e-commerce, epidemiology, finance, human perception, microlabor markets, and online gaming.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: Advanced coursework in Computer Science.
 Instructors: Haym Hirsh
+Crosslisted Courses: INFO 5306
 
-Introduction to Database Systems
+CS 5320: Introduction to Database Systems
 Introduction to modern database and data storage systems. Concepts covered include data models, query languages, database design, storage structures, access methods, query processing and optimization, transaction management, and recovery in both relational and nonrelational data storage systems.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110 or CS 2800.
 Instructors: Immanuel Trummer
+Crosslisted Courses: CS 4320
 
-Operating Systems
+CS 5410: Operating Systems
 Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed.
 Credits: 3
 Semesters Offered: Fall, Spring, Summer.
 Pre/Corequisites: Prerequisite: CS 3410 or CS 3420.
 Instructors: Lorenzo Alvisi
+Crosslisted Courses: CS 4410
 
-Practicum in Operating Systems
+CS 5411: Practicum in Operating Systems
 Studies the practical aspects of operating systems through the design and implementation of an operating system kernel that supports multiprogramming, virtual memory, and various input-output devices. All the programming for the project is in a high-level language.
 Credits: 2
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Corequisite: CS 5410.
 Instructors: Lorenzo Alvisi
+Crosslisted Courses: CS 4411
 
-Cloud Computing
+CS 5412: Cloud Computing
 Focuses on cloud computing, large-scale Internet applications, and other practical issues in designing and implementing trustworthy, scalable distributed software.
 Credits: 4
 Semesters Offered: Spring.
 Pre/Corequisites: Prerequisite: CS 4410 or permission of instructor.
 Instructors: Ken Birman
+Crosslisted Courses: None
 
-Advanced Computer Architecture
+CS 5420: Advanced Computer Architecture
 This course discusses advanced topics in computer architecture beyond the material that is covered in undergraduate courses such as ECE 4750/CS 4420. In particular, the course places special focus on multicore and multiprocessor architectures (coherence, consistency, synchronization, interconnects, OS support, etc.), as well as advanced architecture techniques (simultaneous multithreading, speculative loads and stores, neural branch predictors, hardware resource management, memory scheduling, etc.) Students work on parallel programming assignments that emphasize hardware-aware performance optimization.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: ECE 4750 or CS 4420.
 Instructors: Jose Martinez
+Crosslisted Courses: ECE 5750
 
-Developing and Designing Interactive Devices
+CS 5424: Developing and Designing Interactive Devices
 This course covers the human-centered and technical workings behind interactive devices ranging from cell phones and video controllers to household appliances and smart cars. This is a hands-on, lab-based course. For the final project, students will build a functional IoT prototype of their own design, using Javascript, single-board Linux computer, embedded microcontrollers, and/or other electronic components. Topics include electronics prototyping, interface design, sensors and actuators, microcontroller development, physical prototyping, and user testing.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: basic programming experience.
 Instructors: Wendy Ju
+Crosslisted Courses: ECE 5413, INFO 5345
 
-System Security
+CS 5430: System Security
 Discusses security and survivability for computers and communications networks. Includes discussions of policy issues (e.g., the national debates on cryptography policy) as well as discussions of the technical alternatives for implementing the properties that comprise "trustworthiness" in a computing system. Covers mechanisms for authorization and authentication as well as cryptographic protocols.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 4410.
 Instructors: Fred Schneider
+Crosslisted Courses: None
 
-Security and Privacy Concepts in the Wild
+CS 5435: Security and Privacy Concepts in the Wild
 This course is a broad overview of modern computer security and digital privacy. It aims to impart technical and social understanding of how and why security and privacy matter, how to think adversarially, and how (and how not) to design secure systems and products. Topics include authentication, Web and mobile security, network, OS, and low-level software security, elements of applied cryptography, privacy protection technologies, censorship resistance, and security and privacy of emerging platforms, illustrated by studying real-world systems and attacks. Key learning objectives include understanding the role of threat modeling in the design and evaluation of modern computing systems, how exploitation of computing systems works, and approaches to finding and remediating vulnerabilities.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2800 or CS 4820 or permission of instructor.
 Instructors: Vitaly Shmatikov
+Crosslisted Courses: None
 
-Introduction to Computer Networks
+CS 5456: Introduction to Computer Networks
 No Description
 Credits: 3
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Rachit Agarwal
+Crosslisted Courses: CS 4450
 
-Introduction to Computer Graphics
+CS 5620: Introduction to Computer Graphics
 Introduction to the principles of computer graphics in two and three dimensions. Topics include digital images, filtering and antialiasing, 2-D and 3-D affine geometry, ray tracing, perspective and 3-D viewing, the graphics pipeline, curves and surfaces, and human visual perception. Homework assignments require some Java programming.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110.
 Instructors: Abe Davis
+Crosslisted Courses: CS 4620
 
-Computer Graphics Practicum
+CS 5621: Computer Graphics Practicum
 Provides CS 4620 students with hands-on experience in computer graphics programming on modern graphics hardware. This course emphasizes effective use of graphics APIs and the architecture of graphics applications.  A final project involves building a substantial interactive graphics system.  The course uses Javascript and WebGL for code development.
 Credits: 2
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite or corequisite: CS 5620.
 Instructors: Abe Davis
+Crosslisted Courses: CS 4621
 
-Virtual and Augmented Reality
+CS 5650: Virtual and Augmented Reality
 This course presents an introduction to virtual and augmented reality technologies, with an emphasis on designing and developing interactive virtual and augmented reality experiences. The course will cover the history of the area, fundamental theory, interaction techniques, and specific application areas. Concepts from the contributing fields of computer vision, computer graphics and human computer interaction will be introduced in the context of virtual and augmented reality. Students will be tasked with creating their own virtual or augmented reality application as a course project.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: None
 Instructors: Harald Haraldsson
+Crosslisted Courses: INFO 5340
 
-HCI and Design
+CS 5682: HCI and Design
 Human-Computer Interaction (HCI) and design theory and techniques. Methods for designing, prototyping, and evaluating user interfaces. Basics of visual design, graphic design, and interaction design. Understanding human capabilities, interface technology, interface design methods, prototyping tools, and interface evaluation tools and techniques.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: None
 Instructors: Nicki Dell
+Crosslisted Courses: INFO 6410
 
-Foundations of Artificial Intelligence
+CS 5700: Foundations of Artificial Intelligence
 Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include: knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.
 Credits: 3
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Bart Selman
+Crosslisted Courses: CS 4700
 
-Practicum in Artificial Intelligence
+CS 5701: Practicum in Artificial Intelligence
 Artificial Intelligence project class. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetic algorithms, planning, natural language processing, computer vision.
 Credits: 2
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780.
 Instructors: Bart Selman
+Crosslisted Courses: CS 4701
 
-Optimization Methods
+CS 5727: Optimization Methods
 This course covers algorithmic and computational tools for solving optimization problems with the goal of providing decision-support for business intelligence. We will cover the fundamentals of linear, integer and nonlinear optimization. We will emphasize optimization as a large-scale computational tool, and show how to link programming languages with optimization software to develop industrial-strength decision-support systems. We will demonstrate how to incorporate uncertainty into optimization problems. Throughout the course, we will cover a variety of modern applications, including pricing and marketing for e-commerce, ad auctions on the web, and on-line ride-sharing.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: None
 Instructors: Huseyin Topaloglu
+Crosslisted Courses: ORIE 5380
 
-Natural Language Processing
+CS 5740: Natural Language Processing
 This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today's most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. Possible topics include: methods for handling underlying linguistic phenomena (e.g., syntactic analysis, word sense disambiguation and discourse analysis) and vital emerging applications (e.g., machine translation, sentiment analysis, summarization and information extraction).
 Credits: 4
 Semesters Offered: Fall (Ithaca), Spring (NYC).
 Pre/Corequisites: Prerequisite: CS 2110 or equivalent programming experience; Spring - CS 4780 and CS 4786, or CS 5785 or equivalent machine learning experience. 
 Instructors: Lillian Lee, Marten van Schijndel
+Crosslisted Courses: COGST 4740, CS 4740, LING 4474
 
-Foundations of Robotics
+CS 5750: Foundations of Robotics
 Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester. Students will also participate in group projects towards the end of the semester, in which they will implement algorithms discussed in class to real robotics problems.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: MATH 1920 or MATH 2220, and MATH 2940, and CS 1110 or permission of instructor. Recommended corequisite: CS 1133 and CS 3220.
 Instructors: Tapomayukh Bhattacharjee
+Crosslisted Courses: CS 4750, ECE 4770, MAE 4760
 
-Principles of Large-Scale Machine Learning Systems
+CS 5777: Principles of Large-Scale Machine Learning Systems
 No Description
 Credits: 4
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Christopher De Sa
+Crosslisted Courses: CS 4787
 
-Introduction to Machine Learning
+CS 5780: Introduction to Machine Learning
 The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.
 Credits: 4
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).
 Instructors: Anil Damle, Wen Sun
+Crosslisted Courses: CS 4780
 
-Machine Learning Engineering
+CS 5781: Machine Learning Engineering
 Machine learning is increasingly driven by advances in the underlying hardware and software systems. This course will focus on the challenges inherent to engineering machine learning systems to be correct, robust, and fast. The course walks through the development of a software library for machine learning from scratch, with each assignment requiring students to build models in their own library. Topics will include: tensor languages and auto-differentiation; model debugging, testing, and visualization; fundamentals of GPUs; compression and low-power inference. Guest lectures will cover current topics from ML engineers.
  
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110 or equivalent programming experience.
 Instructors: Alexander Rush
+Crosslisted Courses: None
 
-Applied Machine Learning
+CS 5785: Applied Machine Learning
 Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2800 or equivalent, basic familiarity with Matlab or Python, or permission of instructor.
 Instructors: Volodymyr Kuleshov
+Crosslisted Courses: ECE 5414, ORIE 5750
 
-Introduction to Analysis of Algorithms
+CS 5820: Introduction to Analysis of Algorithms
 Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases, approximation algorithms, local search heuristics, and online algorithms).
 Credits: 4
 Semesters Offered: Fall, Spring, Summer.
 Pre/Corequisites: None
 Instructors: Anke van Zuylen
+Crosslisted Courses: CS 4820
 
-Cryptography
+CS 5830: Cryptography
 Introductory course in Cryptography. Topics include one-way functions, encryption, digital signatures, pseudo-random number generation, zero-knowledge and basic protocols. The emphasis will be on fundamental notions and constructions with proofs of security based on precise definitions and assumptions.
 Credits: 3
 Semesters Offered: Spring.
 Pre/Corequisites: Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor.
 Instructors: 
+Crosslisted Courses: None
 
-Master of Engineering Internship
+CS 5998: Master of Engineering Internship
 Off-campus internship with industry in which a student gains knowledge and experience in the field of computer science.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Stephanie Meik
+Crosslisted Courses: None
 
-Master of Engineering Project
+CS 5999: Master of Engineering Project
 Independent or group project under the direction of a CS field member or researcher. Projects involve the development of a computer science application (software or hardware) useful in exploring and/or solving an engineering problem with a computer science focus.
 Credits: 1-6
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Rachit Agarwal
+Crosslisted Courses: None
 
-Category Theory for Computer Scientists
+CS 6117: Category Theory for Computer Scientists
 An introduction to category theory, with a focus on material with established applications to computer science and programming languages, in particular. The course emphasizes developing comfort with abstraction and instantiation.
 Credits: 4
 Semesters Offered: Spring.
 Pre/Corequisites: Prerequisite: CS 3110.
 Instructors: Justin Hsu
+Crosslisted Courses: None
 
-Matrix Computations
+CS 6210: Matrix Computations
 Stable and efficient algorithms for linear equations, least squares, and eigenvalue problems. Direct and iterative methods are considered. Numerical programming is used extensively.
 Credits: 4
 Semesters Offered: Spring.
 Pre/Corequisites: Prerequisite: MATH 4310 or permission of instructor.
 Instructors: David Bindel
+Crosslisted Courses: None
 
-Advanced Systems
+CS 6410: Advanced Systems
 Advanced course in systems, emphasizing contemporary research in distributed systems. Topics may include communication protocols, consistency in distributed systems, faulttolerance, knowledge and knowledge-based protocols, performance, scheduling, concurrency control, and authentication and security issues.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 4410 or permission of instructor.
 Instructors: Robbert VanRenesse
+Crosslisted Courses: None
 
-Realistic Image Synthesis
+CS 6630: Realistic Image Synthesis
 No Description
 Credits: 4
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Stephen Marschner
+Crosslisted Courses: None
 
-Computer Vision
+CS 6670: Computer Vision
 This course will introduce the core problems of computer vision and discuss both classical approaches based on the geometry and physics of image formation as well as current approaches based on recent advances in deep learning. Topics include stereopsis and 3D reconstruction, optical flow, image segmentation, object recognition, feature representations of images and patches, and convolutional networks.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: MATH 2210 or equivalent.
 Instructors: Bharath Hariharan
+Crosslisted Courses: None
 
-Topics in Computational Sustainability
+CS 6702: Topics in Computational Sustainability
 No Description
 Credits: 4
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Carla Gomes
+Crosslisted Courses: INFO 6702
 
-Natural Language Processing and Social Interaction
+CS 6742: Natural Language Processing and Social Interaction
 More and more of life is now manifested online, and many of the digital traces that are left by human activity are increasingly recorded in natural-language format. This research-oriented course examines the opportunities for natural language processing to contribute to the analysis and facilitation of socially embedded processes. Possible topics include sentiment analysis, learning social-network structure, analysis of text in political or legal domains, review aggregation systems, analysis of online conversations, and text categorization with respect to psychological categories.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 2110 or equivalent programming experience, a course in artificial intelligence or any relevant subfield (e.g., NLP, information retrieval, machine learning).
 Instructors: Cristian Danescu-Niculescu-Mizil
+Crosslisted Courses: INFO 6742
 
-Learning for Robot Decision Making
+CS 6756: Learning for Robot Decision Making
 No Description
 Credits: 3
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Sanjiban Choudhury
+Crosslisted Courses: None
 
-Reasoning about Uncertainty
+CS 6766: Reasoning about Uncertainty
 No Description
 Credits: 4
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Joe Halpern
+Crosslisted Courses: None
 
-Bridging Reasoning and Learning
+CS 6768: Bridging Reasoning and Learning
 No Description
 Credits: 3
 Semesters Offered: None
 Pre/Corequisites: None
 Instructors: Kevin Ellis
+Crosslisted Courses: None
 
-Machine Learning Theory
+CS 6783: Machine Learning Theory
 This course on machine learning theory introduces basic results, tools, and techniques used in analysis of statistical and online learning algorithms. The course also introduces the basics of computational learning theory.  
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 4780/CS 5780 or CS 4786/CS 5786 or CS 6780 or equivalent, or permission of instructor.
 Instructors: Karthik Sridharan
+Crosslisted Courses: None
 
-Advanced Topics in Machine Learning
+CS 6784: Advanced Topics in Machine Learning
 Extends and complements CS 4780 and CS 5780, giving in-depth coverage of new and advanced methods in machine learning.
 Credits: 4
 Semesters Offered: Spring.
 Pre/Corequisites: Prerequisite: CS 4780 or CS 5780 or equivalents or permission of instructor.
 Instructors: 
+Crosslisted Courses: None
 
-Lattices: Geometry, Cryptography, and Algorithms
+CS 6802: Lattices: Geometry, Cryptography, and Algorithms
 A mathematically rigorous course on lattices. Lattices are periodic sets of vectors in high-dimensional space. They play a central role in modern cryptography, and they arise naturally in the study of high-dimensional geometry (e.g., sphere packings). We will study lattices as both geometric and computational objects. Topics include Minkowski's celebrated theorem, the famous LLL algorithm for finding relatively short lattice vectors, Fourier-analytic methods, basic cryptographic constructions, and modern algorithms for finding shortest lattice vectors. We may also see connections to algebraic number theory.
 Credits: 3
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: MATH 4310 or permission of instructor.
 Instructors: Noah Stephens-Davidowitz
+Crosslisted Courses: None
 
-Pseudorandomness and Combinatorial Constructions
+CS 6815: Pseudorandomness and Combinatorial Constructions
 Topics in computational complexity theory focusing on the use of randomness. Topics include pseudorandom generators, randomness extractors, and applications to explicit constructions of combinatorial objects. The course project will involve an in-depth study on a topic introduced in class (based on relevant research papers), with the expectation to produce a high quality survey article and a final presentation.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 4820.
 Instructors: Eshan Chattopadhyay
+Crosslisted Courses: None
 
-Analysis of Algorithms
+CS 6820: Analysis of Algorithms
 Methodology for developing and analyzing efficient algorithms. Understanding the inherent complexity of natural problems via polynomial-time algorithms, advanced data structures, randomized algorithms, approximation algorithms, and NP-completeness. Additional topics may include algebraic and number theoretic algorithms, circuit lower bounds, online algorithms, or algorithmic game theory.
 Credits: 4
 Semesters Offered: Fall.
 Pre/Corequisites: Prerequisite: CS 4820 or graduate level students.
 Instructors: Dexter Kozen
+Crosslisted Courses: None
 
-Computer Science Colloquium
+CS 7090: Computer Science Colloquium
 Weekly meeting for the discussion and study of important topics in the field.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: 
+Crosslisted Courses: None
 
-Seminar in Programming Languages
+CS 7190: Seminar in Programming Languages
 The Programming Languages Discussion Group meets weekly to discuss papers in the area of programming languages, program analysis, and compilers. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in this area. The seminar is open to everybody interested in languages and compilers. First-year and second-year students are especially encouraged to participate.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: Prerequisite: CS 6110 or permission of instructor.
 Instructors: Dexter Kozen, Adrian Sampson
+Crosslisted Courses: None
 
-Seminar on Scientific Computing and Numerics
+CS 7290: Seminar on Scientific Computing and Numerics
 Talks on various methods in scientific computing, the analysis of their convergence properties and computational efficiency, and their adaptation to specific applications.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Anil Damle, Alex Townsend
+Crosslisted Courses: MATH 7290
 
-Database Seminar
+CS 7390: Database Seminar
 The database seminar is the weekly meeting of students and faculty interested in data management and data mining at Cornell. We typically discuss one or two papers on related topics per session. We focus on recent and seminal papers of general interest.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Immanuel Trummer
+Crosslisted Courses: None
 
-Systems Research Seminar
+CS 7490: Systems Research Seminar
 The Systems Research Seminar discusses recent, interesting papers in the systems area, broadly defined to span operating systems, distributed systems, networking, architecture, databases, security, and programming languages. The goal is to foster technical discussions among the Cornell systems research community.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Rachit Agarwal
+Crosslisted Courses: None
 
-Computer Graphics and Vision Seminar
+CS 7690: Computer Graphics and Vision Seminar
 The Graphics/Vision Research Seminar discusses recent research in the areas of computer graphics and computer vision. The goal is to foster technical discussions and collaboration among the Cornell graphics and vision research community.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Abe Davis, Bharath Hariharan, Stephen Marschner, Noah Snavely
+Crosslisted Courses: None
 
-Seminar in Artificial Intelligence
+CS 7790: Seminar in Artificial Intelligence
 The AI seminar will meet weekly for lectures by graduate students, faculty, and researchers emphasizing work-in-progress and recent results in AI research.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Thorsten Joachims
+Crosslisted Courses: None
 
-Seminar in Natural Language Understanding
+CS 7794: Seminar in Natural Language Understanding
 This course, the NLP seminar, is a weekly meeting for people currently or soon to be actively doing research in NLP. (Students simply looking to learn more about NLP should not enroll, but should take one of our lecture courses instead.) One participant leads discussion each week, either of a recently published paper or of their own work in progress. Attendance at all sessions is mandatory.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Yoav Artzi, Lillian Lee, Alexander Rush
+Crosslisted Courses: None
 
-Robotics Seminar
+CS 7796: Robotics Seminar
 Informal seminar in which current topics in robotics are discussed.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Tapomayukh Bhattacharjee
+Crosslisted Courses: None
 
-Seminar in Theory of Algorithms and Computing
+CS 7890: Seminar in Theory of Algorithms and Computing
 The theory seminar will meet weekly for lectures by graduate students, faculty, and researchers emphasizing work-in-progress and recent results related to theory of computing.
 Credits: 1
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Eshan Chattopadhyay, Noah Stephens-Davidowitz
+Crosslisted Courses: None
 
-Independent Research
+CS 7999: Independent Research
 Independent research for CS PhD students who have not yet passed their A-exam.
 Credits: 1-12
 Semesters Offered: Fall, Spring.
 Pre/Corequisites: None
 Instructors: Harald Haraldsson
+Crosslisted Courses: None
 

@@ -10,8 +10,10 @@ file_name = url[url.find("subject=")+8:] + "_" + \
     url[url.find("roster=")+7:url.find("roster=") + 11] + ".txt"
 with open(file_name, 'w', encoding='utf-8') as f:
     for i in range(len(data)):
-        # [titleLong] is course name
-        f.write(data[i]["titleLong"] + "\n")
+        # [titleLong] is course name, [subject] is subject, [catalogNbr] is
+        # course number in form [subject catalogNbr: titleLong]
+        f.write(data[i]['subject'] + " " + data[i]
+                ['catalogNbr'] + ": " + data[i]["titleLong"] + "\n")
         # [description] is course description
         f.write((data[i]["description"] if data[i]["description"]
                 is not None else "No Description") + "\n")
@@ -37,11 +39,23 @@ with open(file_name, 'w', encoding='utf-8') as f:
         # [firstName] + [lastName] lists all instructors by order of [firstName lastName]
         instructors = data[i]["enrollGroups"][0]["classSections"][0]["meetings"][0]["instructors"]
         f.write("Instructors: ")
-        for i in range(len(instructors)):
-            if i != 0:
+        for j in range(len(instructors)):
+            if j != 0:
                 f.write(", ")
-            f.write(instructors[i]["firstName"] +
-                    " " + instructors[i]["lastName"])
+            f.write(instructors[j]["firstName"] +
+                    " " + instructors[j]["lastName"])
+        f.write("\n")
+        f.write("Crosslisted Courses: ")
+        # scrape crosslisted courses
+        crosslisted_courses = data[i]["enrollGroups"][0]["simpleCombinations"]
+        if len(crosslisted_courses) == 0:
+            f.write("None")
+        else:
+            for j in range(len(crosslisted_courses)):
+                if j != 0:
+                    f.write(", ")
+                f.write(crosslisted_courses[j]["subject"] +
+                        " " + crosslisted_courses[j]["catalogNbr"])
         f.write("\n\n")
 
 # for i in range(len(data["enrollGroups"])):
