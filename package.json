@@ -24,5 +24,20 @@
     "eslint": "8.10.0",
     "eslint-config-next": "12.1.0",
     "typescript": "4.6.2"
-  }
+  },
+  "name": "bearmap",
+  "description": "BearMap is a website that allows Cornell students to navigate through courses based on satisfied prerequisites.",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwei4/BearMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwei4/BearMap/issues"
+  },
+  "homepage": "https://github.com/mwei4/BearMap#readme"
 }

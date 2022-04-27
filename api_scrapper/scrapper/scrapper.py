@@ -1,7 +1,7 @@
 import requests
 import json
 
-sem = "FA22"
+sem = "SP22"
 subject = "CS"
 url = "https://classes.cornell.edu/api/2.0/search/classes.json?roster=" + \
     sem + "&subject=" + subject
@@ -45,6 +45,7 @@ with open(file_name, 'w', encoding='utf-8') as f:
                     str.strip, pre_coreqs.split('. ')) if x]
                 for i in range(len(sep_pre_coreqs)):
                     f.write(sep_pre_coreqs[i] + "\n")
+
         # [firstName] + [lastName] lists all instructors by order of [firstName lastName]
         instructors = data[i]["enrollGroups"][0]["classSections"][0]["meetings"][0]["instructors"]
         f.write("Instructors: ")
