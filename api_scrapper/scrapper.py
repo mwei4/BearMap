@@ -2,7 +2,7 @@ import requests
 import json
 
 sem = "FA22"
-subject = "MATH"
+subject = "CS"
 url = "https://classes.cornell.edu/api/2.0/search/classes.json?roster=" + \
     sem + "&subject=" + subject
 response = requests.get(url)
@@ -37,8 +37,14 @@ with open(file_name, 'w', encoding='utf-8') as f:
             f.write("Pre/Corequisites: None" + "\n")
         else:
             pre_coreqs = data[i]["catalogPrereqCoreq"]
-            f.write("Pre/Corequisites: " +
-                    (pre_coreqs if pre_coreqs is not None else "None") + "\n")
+            if pre_coreqs is None:
+                f.write("Pre/Corequisites: None")
+            else:
+                # [sep_pre_coreqs] separates each pre/coreq string based on [.]
+                sep_pre_coreqs = [x for x in map(
+                    str.strip, pre_coreqs.split('. ')) if x]
+                for i in range(len(sep_pre_coreqs)):
+                    f.write(sep_pre_coreqs[i] + "\n")
         # [firstName] + [lastName] lists all instructors by order of [firstName lastName]
         instructors = data[i]["enrollGroups"][0]["classSections"][0]["meetings"][0]["instructors"]
         f.write("Instructors: ")
