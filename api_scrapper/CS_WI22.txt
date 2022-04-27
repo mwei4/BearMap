@@ -1,0 +1,6 @@
+Data Science for All
+This course provides an introduction to data science using the statistical programming language R. We focus on building skills in inferential thinking and computational thinking, guided by the practical questions we seek to answer from data sets arising in medicine, economics and other social sciences. The course starts with essential R programming principles, and how to use R for data manipulation, visualization, and sampling. These techniques are then used to summarize and visualize real data sets, draw meaningful conclusions from those data, and assess the uncertainty surrounding those conclusions. Throughout the process, students will learn to develop hypotheses about their data, and use simulations and statistical techniques to test these hypotheses. The course also covers how to use the Tidyverse open-source R packages to clean and organize complex data sets, and create high quality graphics for data visualization.
+Credits: 4
+Semesters Offered: Spring.
+Pre/Corequisites: None
+
