@@ -1,28 +1,28 @@
 import { Button, HStack, Input } from "@chakra-ui/react"
 import { addDoc, collection } from "firebase/firestore"
 import { FormEventHandler, useState } from "react"
-import { Task } from "../../types"
+import { Class } from "../../types"
 import { db } from "../../util/firebase"
 
 const ClassAddControl = () => {
   const [input, setInput] = useState("")
 
-  const addTask: FormEventHandler<HTMLFormElement> = async (e) => {
+  const addClass: FormEventHandler<HTMLFormElement> = async (e) => {
     e.preventDefault()
     if (input === "") return
 
-    const task: Task = {
+    const course: Class = {
       text: input,
       checked: false,
     }
-    const taskcollectionref = collection(db, "tasks")
-    await addDoc(taskcollectionref, task);
+    const classcollectionref = collection(db, "classes")
+    await addDoc(classcollectionref, course);
 
     setInput("")
   }
 
   return (
-    <form onSubmit={addTask}>
+    <form onSubmit={addClass}>
       <HStack shouldWrapChildren>
         <Input
           value={input}

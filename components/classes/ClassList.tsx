@@ -1,18 +1,19 @@
 import { Text, VStack } from "@chakra-ui/react"
-import { TaskWithId } from "../../types"
+import { CoursewithID } from "../../types"
 import ClassItem from "./ClassItem"
 
 type Props = {
-  readonly tasks: TaskWithId[]
+  readonly courses: CoursewithID[]
 }
 
-const ClassList = ({ tasks }: Props) => {
+const ClassList = ({ courses }: Props) => {
   return (
     <VStack>
-      {tasks.length ? (
-        tasks.map((task) => <ClassItem key={task.id} task={task} />)
+      {courses.length ? (
+        courses.map((course) => <ClassItem key={course.id} class={course} />)
       ) : (
         <Text>The list is looking kinda empty 👀</Text>
+
       )}
     </VStack>
   )

@@ -2,7 +2,7 @@ import { Heading, Spinner, VStack } from "@chakra-ui/react"
 import { collection, getDocs, query, QuerySnapshot } from "firebase/firestore"
 import { onSnapshot } from "firebase/firestore"
 import { useEffect, useState } from "react"
-import { TaskWithId } from "../../types"
+import { CoursewithID } from "../../types"
 import { db } from "../../util/firebase"
 import ClassAddControl from "./ClassAddControl"
 import ClassList from "./ClassList"
@@ -20,21 +20,21 @@ const ClassHeading = () => (
 )
 
 
-const taskcollectionref = collection(db, 'tasks' )
-const taskQuery = query(taskcollectionref)
+const classcollectionref = collection(db, 'classes')
+const classQuery = query(classcollectionref)
 
 const Frodo = () => {
-  const [tasks, setTasks] = useState<TaskWithId[] | null>(null)
+  const [courses, setCourses] = useState<CoursewithID[] | null>(null)
 
-  // Subscribes to `taskQuery`
+  // Subscribes to `classQuery`
   // We define a function to run whenever the query result changes
   useEffect(() => {
-    const unsubscribe = onSnapshot(taskQuery, (querySnapshot) => {
-      getDocs(taskQuery).then((snap) => {
-        const taskData = snap.docs.map(
-          (doc) => ({ ...doc.data(), id: doc.id } as TaskWithId)
+    const unsubscribe = onSnapshot(classQuery, (querySnapshot) => {
+      getDocs(classQuery).then((snap) => {
+        const classData = snap.docs.map(
+          (doc) => ({ ...doc.data(), id: doc.id } as CoursewithID)
         )
-        setTasks(taskData)
+        setCourses(classData)
       })
     })
     return unsubscribe
@@ -44,8 +44,9 @@ const Frodo = () => {
     <VStack spacing={4}>
       <ClassHeading />
       <ClassAddControl />
-      {tasks ? <ClassList tasks={tasks} /> : <Spinner />}
+      {courses ? <ClassList courses={courses} /> : <Spinner />}
     </VStack>
+    
   )
 }
 

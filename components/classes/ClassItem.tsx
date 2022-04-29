@@ -1,39 +1,39 @@
 import { DeleteIcon } from "@chakra-ui/icons"
 import { Checkbox, HStack, IconButton, Text } from "@chakra-ui/react"
 import { collection, deleteDoc, doc, updateDoc } from "firebase/firestore"
-import { TaskWithId } from "../../types"
+import { CoursewithID } from "../../types"
 import { db } from "../../util/firebase"
 
 type Props = {
-  readonly task: TaskWithId
+  readonly class: CoursewithID
 }
 
-const ClassItem = ({ task: { id, text, checked } }: Props) => {
-  const toggleTask = async () => {
-    const taskcollectionref = collection(db, 'tasks')
-    const docref = doc(taskcollectionref, id)
+const ClassItem = ({ class: { id, text, checked } }: Props) => {
+  const toggleClass = async () => {
+    const classcollectionref = collection(db, 'classes')
+    const docref = doc(classcollectionref, id)
     await updateDoc(docref, {checked: true})
   }
 
-  const deleteTask = async () => {
-    const taskcollectionref = collection(db, 'tasks')
-    const docref = doc(taskcollectionref, id)
+  const deleteClass = async () => {
+    const classcollectionref = collection(db, 'classes')
+    const docref = doc(classcollectionref, id)
     await deleteDoc(docref)
   }
 
   return (
     <HStack w="100%">
-      <Checkbox isChecked={checked} onChange={toggleTask} />
+      <Checkbox isChecked={checked} onChange={toggleClass} />
       <Text textDecorationLine={checked ? "line-through" : "initial"}>
         {text}
       </Text>
       <IconButton
-        aria-label="delete task"
+        aria-label="delete class"
         size="xs"
         variant="ghost"
         colorScheme="red"
         icon={<DeleteIcon />}
-        onClick={deleteTask}
+        onClick={deleteClass}
       />
     </HStack>
   )

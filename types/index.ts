@@ -1,8 +1,8 @@
-export type Task = {
+export type Class = {
   text: string
   checked: boolean
 }
 
-export type TaskWithId = Task & {
+export type ClassWithId = Class & {
   id: string
 }

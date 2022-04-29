@@ -14,7 +14,7 @@ const IndexPage = () => (
       <Text fontSize="md" my="3">
         To make searching for classes easier than ever before. 
       </Text> 
-      </Center> 
+    </Center> 
     <Image src= "/../public/cornell.jpg" width = "2000px" height = "1000px"></Image>
   </Layout>
 )
