@@ -8,7 +8,7 @@ type Props = {
   readonly task: TaskWithId
 }
 
-const TaskItem = ({ task: { id, text, checked } }: Props) => {
+const ClassItem = ({ task: { id, text, checked } }: Props) => {
   const toggleTask = async () => {
     const taskcollectionref = collection(db, 'tasks')
     const docref = doc(taskcollectionref, id)
@@ -39,4 +39,4 @@ const TaskItem = ({ task: { id, text, checked } }: Props) => {
   )
 }
 
-export default TaskItem
+export default ClassItem

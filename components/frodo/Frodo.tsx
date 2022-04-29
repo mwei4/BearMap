@@ -15,7 +15,7 @@ const FrodoHeading = () => (
     bgClip="text"
     lineHeight={1.33}
   >
-    BearMaps: My Class List TESTING
+    BearMaps: My Class List
   </Heading>
 )
 
