@@ -4,7 +4,7 @@ import { FormEventHandler, useState } from "react"
 import { Task } from "../../types"
 import { db } from "../../util/firebase"
 
-const TaskAddControl = () => {
+const ClassAddControl = () => {
   const [input, setInput] = useState("")
 
   const addTask: FormEventHandler<HTMLFormElement> = async (e) => {
@@ -36,4 +36,4 @@ const TaskAddControl = () => {
   )
 }
 
-export default TaskAddControl
+export default ClassAddControl

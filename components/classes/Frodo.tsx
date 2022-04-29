@@ -4,10 +4,10 @@ import { onSnapshot } from "firebase/firestore"
 import { useEffect, useState } from "react"
 import { TaskWithId } from "../../types"
 import { db } from "../../util/firebase"
-import TaskAddControl from "./TaskAddControl"
+import ClassAddControl from "./ClassAddControl"
 import ClassList from "./ClassList"
 
-const FrodoHeading = () => (
+const ClassHeading = () => (
   <Heading
     as="h1"
     w="fit-content"
@@ -42,8 +42,8 @@ const Frodo = () => {
 
   return (
     <VStack spacing={4}>
-      <FrodoHeading />
-      <TaskAddControl />
+      <ClassHeading />
+      <ClassAddControl />
       {tasks ? <ClassList tasks={tasks} /> : <Spinner />}
     </VStack>
   )
