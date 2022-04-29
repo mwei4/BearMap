@@ -5,7 +5,7 @@ import { useEffect, useState } from "react"
 import { TaskWithId } from "../../types"
 import { db } from "../../util/firebase"
 import TaskAddControl from "./TaskAddControl"
-import TaskList from "./TaskList"
+import ClassList from "./ClassList"
 
 const FrodoHeading = () => (
   <Heading
@@ -44,7 +44,7 @@ const Frodo = () => {
     <VStack spacing={4}>
       <FrodoHeading />
       <TaskAddControl />
-      {tasks ? <TaskList tasks={tasks} /> : <Spinner />}
+      {tasks ? <ClassList tasks={tasks} /> : <Spinner />}
     </VStack>
   )
 }

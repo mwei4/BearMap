@@ -6,7 +6,7 @@ type Props = {
   readonly tasks: TaskWithId[]
 }
 
-const TaskList = ({ tasks }: Props) => {
+const ClassList = ({ tasks }: Props) => {
   return (
     <VStack>
       {tasks.length ? (
@@ -18,4 +18,4 @@ const TaskList = ({ tasks }: Props) => {
   )
 }
 
-export default TaskList
+export default ClassList
