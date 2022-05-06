@@ -1,11 +1,11 @@
 import { DeleteIcon } from "@chakra-ui/icons"
 import { Checkbox, HStack, IconButton, Text } from "@chakra-ui/react"
 import { collection, deleteDoc, doc, updateDoc } from "firebase/firestore"
-import { CoursewithID } from "../../types"
+import { ClassWithId } from "../../types"
 import { db } from "../../util/firebase"
 
 type Props = {
-  readonly class: CoursewithID
+  readonly class: ClassWithId
 }
 
 const ClassItem = ({ class: { id, text, checked } }: Props) => {

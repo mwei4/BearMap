@@ -1,9 +1,9 @@
 import { Text, VStack } from "@chakra-ui/react"
-import { CoursewithID } from "../../types"
+import { ClassWithId } from "../../types"
 import ClassItem from "./ClassItem"
 
 type Props = {
-  readonly courses: CoursewithID[]
+  readonly courses: ClassWithId[]
 }
 
 const ClassList = ({ courses }: Props) => {

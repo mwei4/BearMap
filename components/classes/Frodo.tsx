@@ -2,7 +2,7 @@ import { Heading, Spinner, VStack } from "@chakra-ui/react"
 import { collection, getDocs, query, QuerySnapshot } from "firebase/firestore"
 import { onSnapshot } from "firebase/firestore"
 import { useEffect, useState } from "react"
-import { CoursewithID } from "../../types"
+import { ClassWithId } from "../../types"
 import { db } from "../../util/firebase"
 import ClassAddControl from "./ClassAddControl"
 import ClassList from "./ClassList"
@@ -24,7 +24,7 @@ const classcollectionref = collection(db, 'classes')
 const classQuery = query(classcollectionref)
 
 const Frodo = () => {
-  const [courses, setCourses] = useState<CoursewithID[] | null>(null)
+  const [courses, setCourses] = useState<ClassWithId[] | null>(null)
 
   // Subscribes to `classQuery`
   // We define a function to run whenever the query result changes
@@ -32,7 +32,7 @@ const Frodo = () => {
     const unsubscribe = onSnapshot(classQuery, (querySnapshot) => {
       getDocs(classQuery).then((snap) => {
         const classData = snap.docs.map(
-          (doc) => ({ ...doc.data(), id: doc.id } as CoursewithID)
+          (doc) => ({ ...doc.data(), id: doc.id } as ClassWithId)
         )
         setCourses(classData)
       })
