@@ -1,0 +1,527 @@
+{
+  "CS 1110": {
+    "class": "CS 1110",
+    "pre_coreq": []
+  },
+  "CS 1112": {
+    "class": "CS 1112",
+    "pre_coreq": [
+      "Corequisite: MATH 1110, MATH 1910, or equivalent"
+    ]
+  },
+  "CS 1132": {
+    "class": "CS 1132",
+    "pre_coreq": []
+  },
+  "CS 1133": {
+    "class": "CS 1133",
+    "pre_coreq": []
+  },
+  "CS 1300": {
+    "class": "CS 1300",
+    "pre_coreq": []
+  },
+  "CS 1340": {
+    "class": "CS 1340",
+    "pre_coreq": []
+  },
+  "CS 1380": {
+    "class": "CS 1380",
+    "pre_coreq": []
+  },
+  "CS 1710": {
+    "class": "CS 1710",
+    "pre_coreq": []
+  },
+  "CS 1998": {
+    "class": "CS 1998",
+    "pre_coreq": []
+  },
+  "CS 2043": {
+    "class": "CS 2043",
+    "pre_coreq": [
+      "Prerequisite: one programming course or equivalent programming experience",
+      "No previous knowledge of UNIX or expertise in any particular language is assumed"
+    ]
+  },
+  "CS 2110": {
+    "class": "CS 2110",
+    "pre_coreq": [
+      "Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language"
+    ]
+  },
+  "CS 2111": {
+    "class": "CS 2111",
+    "pre_coreq": [
+      "Corequisite: CS 2110"
+    ]
+  },
+  "CS 2300": {
+    "class": "CS 2300",
+    "pre_coreq": [
+      "Prerequisite: CS 1300"
+    ]
+  },
+  "CS 2800": {
+    "class": "CS 2800",
+    "pre_coreq": [
+      "Prerequisite or corequisite: one programming course or permission of instructor"
+    ]
+  },
+  "CS 3110": {
+    "class": "CS 3110",
+    "pre_coreq": [
+      "Prerequisite: CS 2110 or equivalent programming experience",
+      "Prerequisite or corequisite: CS 2800",
+      "Should not be taken concurrently with CS 3410 or CS 3420"
+    ]
+  },
+  "CS 3152": {
+    "class": "CS 3152",
+    "pre_coreq": [
+      "Prerequisite for programmers: CS 2110 or permission of the instructor",
+      "Prerequisite for designers: INFO 2450 and/or submission of art/design samples to instructor",
+      "Corequisite: ENGRC 3152"
+    ]
+  },
+  "CS 3410": {
+    "class": "CS 3410",
+    "pre_coreq": [
+      "Prerequisite: CS 2110 or equivalent programming experience",
+      "Recommended prerequisite: CS 2024",
+      "Should not take CS 3110 concurrently"
+    ]
+  },
+  "CS 3420": {
+    "class": "CS 3420",
+    "pre_coreq": [
+      "Prerequisite: ECE 2300/ENGRD 2300",
+      "Recommended prerequisite: ECE 2400/ENGRD 2140"
+    ]
+  },
+  "CS 4090": {
+    "class": "CS 4090",
+    "pre_coreq": []
+  },
+  "CS 4120": {
+    "class": "CS 4120",
+    "pre_coreq": [
+      "Prerequisite: CS 3110 or permission of instructor, and CS 3420 or CS 3410",
+      "Corequisite: CS 4121"
+    ]
+  },
+  "CS 4121": {
+    "class": "CS 4121",
+    "pre_coreq": [
+      "Corequisite: CS 4120"
+    ]
+  },
+  "CS 4152": {
+    "class": "CS 4152",
+    "pre_coreq": [
+      "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414",
+      "Corequisite: ENGRC 4152"
+    ]
+  },
+  "CS 4160": {
+    "class": "CS 4160",
+    "pre_coreq": [
+      "Prerequisite: CS 3110 or permission of instructor",
+      "Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above)"
+    ]
+  },
+  "CS 4220": {
+    "class": "CS 4220",
+    "pre_coreq": [
+      "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250, or permission of the instructor"
+    ]
+  },
+  "CS 4410": {
+    "class": "CS 4410",
+    "pre_coreq": [
+      "Prerequisite: CS 3410 or CS 3420"
+    ]
+  },
+  "CS 4411": {
+    "class": "CS 4411",
+    "pre_coreq": [
+      "Corequisite: CS 4410"
+    ]
+  },
+  "CS 4670": {
+    "class": "CS 4670",
+    "pre_coreq": [
+      "Prerequisite: CS 2110, CS 2800"
+    ]
+  },
+  "CS 4700": {
+    "class": "CS 4700",
+    "pre_coreq": [
+      "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor"
+    ]
+  },
+  "CS 4701": {
+    "class": "CS 4701",
+    "pre_coreq": [
+      "Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780"
+    ]
+  },
+  "CS 4744": {
+    "class": "CS 4744",
+    "pre_coreq": [
+      "Prerequisite: Elementary Python (CS 1133 suffices), LING 1101 or CS 2800 or PHIL 2310",
+      "Prerequisite for CS majors: Elementary Python and CS 2800"
+    ]
+  },
+  "CS 4758": {
+    "class": "CS 4758",
+    "pre_coreq": [
+      "Prerequisite: MATLAB programming or permission of instructor"
+    ]
+  },
+  "CS 4780": {
+    "class": "CS 4780",
+    "pre_coreq": [
+      "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110)"
+    ]
+  },
+  "CS 4783": {
+    "class": "CS 4783",
+    "pre_coreq": [
+      "Prerequisite: CS 4780, CS 4820 or equivalent"
+    ]
+  },
+  "CS 4789": {
+    "class": "CS 4789",
+    "pre_coreq": [
+      "Prerequisite: CS 4780"
+    ]
+  },
+  "CS 4810": {
+    "class": "CS 4810",
+    "pre_coreq": [
+      "Prerequisite: CS 2800 or permission of instructor"
+    ]
+  },
+  "CS 4820": {
+    "class": "CS 4820",
+    "pre_coreq": [
+      "Prerequisite: CS 2800, CS 3110"
+    ]
+  },
+  "CS 4830": {
+    "class": "CS 4830",
+    "pre_coreq": [
+      "Prerequisite: CS 4820"
+    ]
+  },
+  "CS 4850": {
+    "class": "CS 4850",
+    "pre_coreq": [
+      "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940"
+    ]
+  },
+  "CS 4852": {
+    "class": "CS 4852",
+    "pre_coreq": [
+      "Prerequisite: INFO 2040, CS 2800 or equivalent"
+    ]
+  },
+  "CS 4997": {
+    "class": "CS 4997",
+    "pre_coreq": []
+  },
+  "CS 4998": {
+    "class": "CS 4998",
+    "pre_coreq": []
+  },
+  "CS 4999": {
+    "class": "CS 4999",
+    "pre_coreq": []
+  },
+  "CS 5120": {
+    "class": "CS 5120",
+    "pre_coreq": [
+      "Prerequisite: CS 3110 or permission of instructor, CS 3420 or CS 3410",
+      "Corequisite: CS 5121"
+    ]
+  },
+  "CS 5121": {
+    "class": "CS 5121",
+    "pre_coreq": [
+      "Corequisite: CS 5120"
+    ]
+  },
+  "CS 5135": {
+    "class": "CS 5135",
+    "pre_coreq": [
+      "Prerequisite: ORIE 5380/CS 5727 or some knowledge of linear programming"
+    ]
+  },
+  "CS 5150": {
+    "class": "CS 5150",
+    "pre_coreq": [
+      "Prerequisite: CS 2110 or equivalent experience programming in Java or C++"
+    ]
+  },
+  "CS 5152": {
+    "class": "CS 5152",
+    "pre_coreq": [
+      "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414",
+      "Corequisite: ENGRC 5152"
+    ]
+  },
+  "CS 5160": {
+    "class": "CS 5160",
+    "pre_coreq": [
+      "Prerequisite: CS 3110 or permission of instructor",
+      "Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above)"
+    ]
+  },
+  "CS 5223": {
+    "class": "CS 5223",
+    "pre_coreq": [
+      "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250 or permission of instructor"
+    ]
+  },
+  "CS 5304": {
+    "class": "CS 5304",
+    "pre_coreq": []
+  },
+  "CS 5356": {
+    "class": "CS 5356",
+    "pre_coreq": [
+      "Prerequisite: CS 2110 or CS 2112"
+    ]
+  },
+  "CS 5410": {
+    "class": "CS 5410",
+    "pre_coreq": [
+      "Prerequisite: CS 3410 or CS 3420"
+    ]
+  },
+  "CS 5411": {
+    "class": "CS 5411",
+    "pre_coreq": [
+      "Corequisite: CS 5410"
+    ]
+  },
+  "CS 5412": {
+    "class": "CS 5412",
+    "pre_coreq": [
+      "Prerequisite: CS 4410 or permission of instructor"
+    ]
+  },
+  "CS 5433": {
+    "class": "CS 5433",
+    "pre_coreq": []
+  },
+  "CS 5436": {
+    "class": "CS 5436",
+    "pre_coreq": []
+  },
+  "CS 5625": {
+    "class": "CS 5625",
+    "pre_coreq": [
+      "Prerequisite: CS 4620/CS 5620"
+    ]
+  },
+  "CS 5670": {
+    "class": "CS 5670",
+    "pre_coreq": [
+      "Prerequisite: CS 2110, CS 2800"
+    ]
+  },
+  "CS 5678": {
+    "class": "CS 5678",
+    "pre_coreq": [
+      "Prerequisite: CS 5650, INFO 5340, or permission from the instructor"
+    ]
+  },
+  "CS 5700": {
+    "class": "CS 5700",
+    "pre_coreq": []
+  },
+  "CS 5726": {
+    "class": "CS 5726",
+    "pre_coreq": [
+      "Prerequisite: ORIE 5750 or CS 5785"
+    ]
+  },
+  "CS 5758": {
+    "class": "CS 5758",
+    "pre_coreq": []
+  },
+  "CS 5780": {
+    "class": "CS 5780",
+    "pre_coreq": [
+      "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110)"
+    ]
+  },
+  "CS 5783": {
+    "class": "CS 5783",
+    "pre_coreq": [
+      "Prerequisite: CS 4780, CS 4820 or equivalent"
+    ]
+  },
+  "CS 5787": {
+    "class": "CS 5787",
+    "pre_coreq": [
+      "Prerequisite: CS 5785/ECE 5414/ORIE 5750"
+    ]
+  },
+  "CS 5789": {
+    "class": "CS 5789",
+    "pre_coreq": [
+      "Prerequisite: CS 5780"
+    ]
+  },
+  "CS 5820": {
+    "class": "CS 5820",
+    "pre_coreq": []
+  },
+  "CS 5830": {
+    "class": "CS 5830",
+    "pre_coreq": [
+      "Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor"
+    ]
+  },
+  "CS 5850": {
+    "class": "CS 5850",
+    "pre_coreq": [
+      "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940"
+    ]
+  },
+  "CS 5998": {
+    "class": "CS 5998",
+    "pre_coreq": []
+  },
+  "CS 5999": {
+    "class": "CS 5999",
+    "pre_coreq": []
+  },
+  "CS 6110": {
+    "class": "CS 6110",
+    "pre_coreq": []
+  },
+  "CS 6120": {
+    "class": "CS 6120",
+    "pre_coreq": [
+      "Prerequisite: CS 4120 or CS 5120"
+    ]
+  },
+  "CS 6156": {
+    "class": "CS 6156",
+    "pre_coreq": [
+      "Prerequisite: graduate standing in CS or CS majors with CS 3110 grade of B+ or better"
+    ]
+  },
+  "CS 6210": {
+    "class": "CS 6210",
+    "pre_coreq": [
+      "Prerequisite: MATH 4310 or permission of instructor"
+    ]
+  },
+  "CS 6382": {
+    "class": "CS 6382",
+    "pre_coreq": []
+  },
+  "CS 6682": {
+    "class": "CS 6682",
+    "pre_coreq": [
+      "Prerequisite: Python; MATH 2210, CS 2110, or CS 2112",
+      "Recommended prerequisite: MATH 2230, and/or CS 3110, and/or demonstrated knowledge of Javascript and basic Signal Processing"
+    ]
+  },
+  "CS 6740": {
+    "class": "CS 6740",
+    "pre_coreq": [
+      "Prerequisite: CS 2110 or equivalent, a course in artificial intelligence or any relevant subfield (e.g., NLP, information retrieval, machine learning, Cornell CS courses numbered 47xx or 67xx)",
+      "Proficiency with using machine learning tools (e.g., fluency at training an SVM, comfort with assessing a classifier's performance using cross-validation)"
+    ]
+  },
+  "CS 6741": {
+    "class": "CS 6741",
+    "pre_coreq": [
+      "Prerequisite: CS 2110 or equivalent programming experience, CS 4780/CS 5780 or CS 6780 or equivalent"
+    ]
+  },
+  "CS 6751": {
+    "class": "CS 6751",
+    "pre_coreq": [
+      "Prerequisite: MATH 4310 or equivalent, MATH 4720, proficiency in C++ or Python",
+      "Recommended prerequisite for undergraduates: MAE 4180 or CS 4750/CS 5750/MAE 4760/ECE 4770",
+      "Familiarity with ROS is required"
+    ]
+  },
+  "CS 6764": {
+    "class": "CS 6764",
+    "pre_coreq": []
+  },
+  "CS 6784": {
+    "class": "CS 6784",
+    "pre_coreq": [
+      "Prerequisite: CS 4780 or CS 5780 or equivalents or permission of instructor"
+    ]
+  },
+  "CS 6785": {
+    "class": "CS 6785",
+    "pre_coreq": [
+      "Prerequisite: CS 2110, MATH 1920, MATH 2940, MATH 4710, or permission of instructor"
+    ]
+  },
+  "CS 7090": {
+    "class": "CS 7090",
+    "pre_coreq": []
+  },
+  "CS 7190": {
+    "class": "CS 7190",
+    "pre_coreq": [
+      "Prerequisite: CS 6110 or permission of instructor"
+    ]
+  },
+  "CS 7194": {
+    "class": "CS 7194",
+    "pre_coreq": []
+  },
+  "CS 7290": {
+    "class": "CS 7290",
+    "pre_coreq": []
+  },
+  "CS 7390": {
+    "class": "CS 7390",
+    "pre_coreq": []
+  },
+  "CS 7420": {
+    "class": "CS 7420",
+    "pre_coreq": []
+  },
+  "CS 7490": {
+    "class": "CS 7490",
+    "pre_coreq": []
+  },
+  "CS 7690": {
+    "class": "CS 7690",
+    "pre_coreq": []
+  },
+  "CS 7790": {
+    "class": "CS 7790",
+    "pre_coreq": []
+  },
+  "CS 7794": {
+    "class": "CS 7794",
+    "pre_coreq": []
+  },
+  "CS 7796": {
+    "class": "CS 7796",
+    "pre_coreq": []
+  },
+  "CS 7890": {
+    "class": "CS 7890",
+    "pre_coreq": []
+  },
+  "CS 7999": {
+    "class": "CS 7999",
+    "pre_coreq": []
+  }
+}

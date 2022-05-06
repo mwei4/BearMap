@@ -2,10 +2,11 @@
   "CS 1110": {
     "class": "CS 1110",
     "name": "Introduction to Computing Using Python",
-    "description": "Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming. Weekly labs provide guided practice on the computer, with staff present to help.\u00a0",
+    "description": "Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming. Weekly labs provide guided practice on the computer, with staff present to help.",
     "credits": 4,
     "offered": "Fall, Spring, Summer.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Anne Bracy",
       "Lillian Lee"
@@ -19,6 +20,10 @@
     "credits": 4,
     "offered": "Fall, Spring.",
     "pre_coreq": "Corequisite: MATH 1110, MATH 1910, or equivalent.",
+    "pre_coreq list": [
+      "MATH 1110",
+      "MATH 1910"
+    ],
     "instructors": [
       "Kit-Yee Daisy Fan"
     ],
@@ -31,6 +36,7 @@
     "credits": 2,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Kit-Yee Daisy Fan"
     ],
@@ -43,6 +49,7 @@
     "credits": 2,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Craig Frey"
     ],
@@ -55,6 +62,7 @@
     "credits": 3,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Royal Westwater"
     ],
@@ -69,6 +77,7 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Jon Kleinberg",
       "Karen Levy"
@@ -84,6 +93,7 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Sumanta Basu"
     ],
@@ -96,10 +106,11 @@
   "CS 1710": {
     "class": "CS 1710",
     "name": "Introduction to Cognitive Science",
-    "description": "This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.\u00a0",
+    "description": "This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.",
     "credits": 3,
     "offered": "Spring, Summer.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Shaun Nichols"
     ],
@@ -120,6 +131,7 @@
     ],
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Walker White"
     ],
@@ -132,6 +144,7 @@
     "credits": 2,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: one programming course or equivalent programming experience. No previous knowledge of UNIX or expertise in any particular language is assumed.",
+    "pre_coreq list": [],
     "instructors": [
       "Ronald DiNapoli"
     ],
@@ -144,6 +157,10 @@
     "credits": 3,
     "offered": "Fall, Spring, Summer.",
     "pre_coreq": "Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language.",
+    "pre_coreq list": [
+      "CS 1110",
+      "CS 1112"
+    ],
     "instructors": [
       "Michael Clarkson",
       "David Gries"
@@ -159,6 +176,9 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "Corequisite: CS 2110.",
+    "pre_coreq list": [
+      "CS 2110"
+    ],
     "instructors": [
       "Matthew Eichhorn",
       "David Gries"
@@ -168,10 +188,13 @@
   "CS 2300": {
     "class": "CS 2300",
     "name": "Intermediate Design and Programming for the Web",
-    "description": "Web programming requires the cooperation of two machines: the one in front of the viewer (client) and the one delivering the content (server).\u00a0INFO 1300\u00a0concentrates almost exclusively on the client side. The main emphasis in INFO 2300 is learning about server side processing. Students begin with a short overview of the PHP server-side scripting language, then look at interactions with databases, learning about querying via the database language SQL. Through a succession of projects, students learn how to apply this understanding to the creation of an interactive, data-driven site via PHP and the MYSQL database. Also considered are technologies such as Javascript and Ajax and techniques to enhance security and privacy. Design and usability issues are emphasized. A major component of the course is the creation of a substantial web site.",
+    "description": "Web programming requires the cooperation of two machines: the one in front of the viewer (client) and the one delivering the content (server). INFO 1300 concentrates almost exclusively on the client side. The main emphasis in INFO 2300 is learning about server side processing. Students begin with a short overview of the PHP server-side scripting language, then look at interactions with databases, learning about querying via the database language SQL. Through a succession of projects, students learn how to apply this understanding to the creation of an interactive, data-driven site via PHP and the MYSQL database. Also considered are technologies such as Javascript and Ajax and techniques to enhance security and privacy. Design and usability issues are emphasized. A major component of the course is the creation of a substantial web site.",
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 1300.",
+    "pre_coreq list": [
+      "CS 1300"
+    ],
     "instructors": [
       "Kyle Harms"
     ],
@@ -187,6 +210,7 @@
     "credits": 3,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite or corequisite: one programming course or permission of instructor.",
+    "pre_coreq list": [],
     "instructors": [
       "Anke van Zuylen"
     ],
@@ -199,6 +223,10 @@
     "credits": 4,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800. Should not be taken concurrently with CS 3410 or CS 3420.",
+    "pre_coreq list": [
+      "CS 2110",
+      "CS 2800"
+    ],
     "instructors": [
       "Nate Foster",
       "Justin Hsu"
@@ -212,6 +240,11 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite for programmers: CS 2110 or permission of the instructor. Prerequisite for designers: INFO 2450 and/or submission of art/design samples to instructor. Corequisite: ENGRC 3152.",
+    "pre_coreq list": [
+      "CS 2110",
+      "INFO 2450",
+      "ENGRC 3152"
+    ],
     "instructors": [
       "Walker White"
     ],
@@ -226,6 +259,9 @@
     "credits": 4,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience. Recommended prerequisite: CS 2024. Should not take CS 3110 concurrently.",
+    "pre_coreq list": [
+      "CS 2110"
+    ],
     "instructors": [
       "Anne Bracy"
     ],
@@ -238,6 +274,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: ECE 2300/ENGRD 2300. Recommended prerequisite: ECE 2400/ENGRD 2140.",
+    "pre_coreq list": [
+      "ENGRD 2300"
+    ],
     "instructors": [
       "Nils Napp"
     ],
@@ -255,6 +294,7 @@
     ],
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Dexter Kozen"
     ],
@@ -267,6 +307,12 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 3110 or permission of instructor, and CS 3420 or CS 3410. Corequisite: CS 4121.",
+    "pre_coreq list": [
+      "CS 3110",
+      "CS 3420",
+      "CS 3410",
+      "CS 4121"
+    ],
     "instructors": [
       "Andrew Myers"
     ],
@@ -281,6 +327,9 @@
     "credits": 2,
     "offered": "Spring.",
     "pre_coreq": "Corequisite: CS 4120.",
+    "pre_coreq list": [
+      "CS 4120"
+    ],
     "instructors": [
       "Andrew Myers"
     ],
@@ -295,6 +344,14 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414. Corequisite: ENGRC 4152.",
+    "pre_coreq list": [
+      "CS 3152",
+      "CS 3300",
+      "CS 4620",
+      "CS 4700",
+      "CS 5414",
+      "ENGRC 4152"
+    ],
     "instructors": [
       "Walker White"
     ],
@@ -311,6 +368,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above).",
+    "pre_coreq list": [
+      "CS 3110"
+    ],
     "instructors": [
       "Michael Clarkson"
     ],
@@ -325,6 +385,12 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250, or permission of the instructor. ",
+    "pre_coreq list": [
+      "MATH 2210",
+      "MATH 2940",
+      "CS 3220",
+      "MATH 4250"
+    ],
     "instructors": [
       "David Bindel"
     ],
@@ -340,6 +406,10 @@
     "credits": 3,
     "offered": "Fall, Spring, Summer.",
     "pre_coreq": "Prerequisite: CS 3410 or CS 3420.",
+    "pre_coreq list": [
+      "CS 3410",
+      "CS 3420"
+    ],
     "instructors": [
       "Robbert VanRenesse"
     ],
@@ -354,6 +424,9 @@
     "credits": 2,
     "offered": "Fall, Spring.",
     "pre_coreq": "Corequisite: CS 4410.",
+    "pre_coreq list": [
+      "CS 4410"
+    ],
     "instructors": [
       "Robbert VanRenesse"
     ],
@@ -364,10 +437,14 @@
   "CS 4670": {
     "class": "CS 4670",
     "name": "Introduction to Computer Vision",
-    "description": "An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world-the 3D shape of an environment, the motion of objects, the names of people or things-through analysis of digital images or videos. \u00a0The course covers a range of topics, including 3D reconstruction, image segmentation, object recognition, and vision algorithms fro the Internet, as well as key algorithmic, optimization, and machine learning techniques, such as graph cuts, non-linear least squares, and deep learning. \u00a0This course emphasizes hands-on experience with computer vision, and several large programming projects.",
+    "description": "An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world-the 3D shape of an environment, the motion of objects, the names of people or things-through analysis of digital images or videos.  The course covers a range of topics, including 3D reconstruction, image segmentation, object recognition, and vision algorithms fro the Internet, as well as key algorithmic, optimization, and machine learning techniques, such as graph cuts, non-linear least squares, and deep learning.  This course emphasizes hands-on experience with computer vision, and several large programming projects.",
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2110, CS 2800.",
+    "pre_coreq list": [
+      "CS 2110",
+      "CS 2800"
+    ],
     "instructors": [
       "Bharath Hariharan"
     ],
@@ -382,6 +459,10 @@
     "credits": 3,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.",
+    "pre_coreq list": [
+      "ENGRD 2110",
+      "CS 2800"
+    ],
     "instructors": [
       "Kevin Ellis",
       "Haym Hirsh"
@@ -393,10 +474,16 @@
   "CS 4701": {
     "class": "CS 4701",
     "name": "Practicum in Artificial Intelligence",
-    "description": "Artificial Intelligence project class. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetic algorithms, planning, natural language processing, computer vision. Should be taken only by students with significant experience in Artificial Intelligence, such as those who have already taken CS 4700,\u00a0CS 4780, CS 4670, or CS 4740.",
+    "description": "Artificial Intelligence project class. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetic algorithms, planning, natural language processing, computer vision. Should be taken only by students with significant experience in Artificial Intelligence, such as those who have already taken CS 4700, CS 4780, CS 4670, or CS 4740.",
     "credits": 2,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780.",
+    "pre_coreq list": [
+      "CS 4670",
+      "CS 4700",
+      "CS 4740",
+      "CS 4780"
+    ],
     "instructors": [
       "Kevin Ellis",
       "Haym Hirsh"
@@ -410,6 +497,13 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: Elementary Python (CS 1133 suffices), LING 1101 or CS 2800 or PHIL 2310. Prerequisite for CS majors: Elementary Python and CS 2800.",
+    "pre_coreq list": [
+      "CS 1133",
+      "LING 1101",
+      "CS 2800",
+      "PHIL 2310",
+      "CS 2800"
+    ],
     "instructors": [
       "Marten van Schijndel"
     ],
@@ -426,6 +520,7 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: MATLAB programming or permission of instructor.",
+    "pre_coreq list": [],
     "instructors": [
       "Hadas Kress-Gazit"
     ],
@@ -444,6 +539,11 @@
     "credits": 4,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).",
+    "pre_coreq list": [
+      "BTRY 3080",
+      "ECON 3130",
+      "MATH 4710"
+    ],
     "instructors": [
       "Christopher De Sa"
     ],
@@ -458,6 +558,10 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+    "pre_coreq list": [
+      "CS 4780",
+      "CS 4820"
+    ],
     "instructors": [
       "Karthik Sridharan"
     ],
@@ -468,10 +572,13 @@
   "CS 4789": {
     "class": "CS 4789",
     "name": "Introduction to Reinforcement Learning",
-    "description": "Reinforcement Learning is one of the most popular paradigms for modelling interactive learning and sequential decision making in dynamical environments. This course introduces the basics of Reinforcement Learning and the Markov Decision Process. The course will cover algorithms for planning and learning in Markov Decision Processes. We will discuss potential applications of Reinforcement Learning and their implications.\u00a0We will study and implement classic Reinforcement Learning algorithms.",
+    "description": "Reinforcement Learning is one of the most popular paradigms for modelling interactive learning and sequential decision making in dynamical environments. This course introduces the basics of Reinforcement Learning and the Markov Decision Process. The course will cover algorithms for planning and learning in Markov Decision Processes. We will discuss potential applications of Reinforcement Learning and their implications. We will study and implement classic Reinforcement Learning algorithms.",
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4780.",
+    "pre_coreq list": [
+      "CS 4780"
+    ],
     "instructors": [
       "Sarah Dean"
     ],
@@ -486,6 +593,9 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2800 or permission of instructor.",
+    "pre_coreq list": [
+      "CS 2800"
+    ],
     "instructors": [
       "Dexter Kozen"
     ],
@@ -498,6 +608,10 @@
     "credits": 4,
     "offered": "Fall, Spring, Summer.",
     "pre_coreq": "Prerequisite: CS 2800, CS 3110. ",
+    "pre_coreq list": [
+      "CS 2800",
+      "CS 3110"
+    ],
     "instructors": [
       "Eshan Chattopadhyay"
     ],
@@ -508,10 +622,13 @@
   "CS 4830": {
     "class": "CS 4830",
     "name": "Introduction to Cryptography",
-    "description": "A rigorous introduction to the theoretical foundations of the cryptography\u00a0that powers much of the modern world. Topics include one-way functions, secret-key encryption, zero-knowledge proofs, signatures, public-key encryption etc.\u00a0As this is a theoretical class, the emphasis will be on formal definitions and proofs.",
+    "description": "A rigorous introduction to the theoretical foundations of the cryptography that powers much of the modern world. Topics include one-way functions, secret-key encryption, zero-knowledge proofs, signatures, public-key encryption etc. As this is a theoretical class, the emphasis will be on formal definitions and proofs.",
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4820.",
+    "pre_coreq list": [
+      "CS 4820"
+    ],
     "instructors": [
       "Noah Stephens-Davidowitz"
     ],
@@ -526,6 +643,13 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+    "pre_coreq list": [
+      "CS 2800",
+      "MATH 1910",
+      "MATH 1920",
+      "MATH 2210",
+      "MATH 2940"
+    ],
     "instructors": [
       "Robert Kleinberg"
     ],
@@ -540,6 +664,10 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: INFO 2040, CS 2800 or equivalent.",
+    "pre_coreq list": [
+      "INFO 2040",
+      "CS 2800"
+    ],
     "instructors": [
       "Cristobal Cheyre Forestier"
     ],
@@ -552,10 +680,11 @@
   "CS 4997": {
     "class": "CS 4997",
     "name": "Practical Training in Computer Science",
-    "description": "This independent study course offers CS majors (i.e., undergraduates whose applications to affiliate with the CS major have been approved)\u00a0an opportunity to reflect on concepts from computer science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the computer science major.",
+    "description": "This independent study course offers CS majors (i.e., undergraduates whose applications to affiliate with the CS major have been approved) an opportunity to reflect on concepts from computer science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the computer science major.",
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Lillian Lee"
     ],
@@ -564,13 +693,14 @@
   "CS 4998": {
     "class": "CS 4998",
     "name": "Team Projects",
-    "description": "Advanced independent work in computer science as part of a student-led team project.\u00a0",
+    "description": "Advanced independent work in computer science as part of a student-led team project.",
     "credits": [
       1,
       4
     ],
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Kavita Bala"
     ],
@@ -586,6 +716,7 @@
     ],
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Wen Sun"
     ],
@@ -598,6 +729,12 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 3110 or permission of instructor, CS 3420 or CS 3410. Corequisite: CS 5121.",
+    "pre_coreq list": [
+      "CS 3110",
+      "CS 3420",
+      "CS 3410",
+      "CS 5121"
+    ],
     "instructors": [
       "Andrew Myers"
     ],
@@ -612,6 +749,9 @@
     "credits": 2,
     "offered": "Spring.",
     "pre_coreq": "Corequisite: CS 5120.",
+    "pre_coreq list": [
+      "CS 5120"
+    ],
     "instructors": [
       "Andrew Myers"
     ],
@@ -626,6 +766,9 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: ORIE 5380/CS 5727 or some knowledge of linear programming.",
+    "pre_coreq list": [
+      "CS 5727"
+    ],
     "instructors": [
       "Andrea Lodi"
     ],
@@ -640,6 +783,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2110 or equivalent experience programming in Java or C++.",
+    "pre_coreq list": [
+      "CS 2110"
+    ],
     "instructors": [
       "Curran Muhlberger"
     ],
@@ -652,6 +798,14 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414. Corequisite: ENGRC 5152.",
+    "pre_coreq list": [
+      "CS 3152",
+      "CS 3300",
+      "CS 4620",
+      "CS 4700",
+      "CS 5414",
+      "ENGRC 5152"
+    ],
     "instructors": [
       "Walker White"
     ],
@@ -668,6 +822,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above). ",
+    "pre_coreq list": [
+      "CS 3110"
+    ],
     "instructors": [
       "Michael Clarkson"
     ],
@@ -682,6 +839,12 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250 or permission of instructor.",
+    "pre_coreq list": [
+      "MATH 2210",
+      "MATH 2940",
+      "CS 3220",
+      "MATH 4250"
+    ],
     "instructors": [
       "David Bindel"
     ],
@@ -697,6 +860,7 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Rajalakshmi Nandakumar"
     ],
@@ -711,6 +875,10 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2110 or CS 2112.",
+    "pre_coreq list": [
+      "CS 2110",
+      "CS 2112"
+    ],
     "instructors": [
       "Danny Aslam-Perez"
     ],
@@ -723,6 +891,10 @@
     "credits": 3,
     "offered": "Fall, Spring, Summer.",
     "pre_coreq": "Prerequisite: CS 3410 or CS 3420.",
+    "pre_coreq list": [
+      "CS 3410",
+      "CS 3420"
+    ],
     "instructors": [
       "Robbert VanRenesse"
     ],
@@ -737,6 +909,9 @@
     "credits": 2,
     "offered": "Fall, Spring.",
     "pre_coreq": "Corequisite: CS 5410.",
+    "pre_coreq list": [
+      "CS 5410"
+    ],
     "instructors": [
       "Robbert VanRenesse"
     ],
@@ -751,6 +926,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4410 or permission of instructor.",
+    "pre_coreq list": [
+      "CS 4410"
+    ],
     "instructors": [
       "Ken Birman"
     ],
@@ -763,6 +941,7 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Ari Juels"
     ],
@@ -775,6 +954,7 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Helen Nissenbaum",
       "Vitaly Shmatikov"
@@ -790,6 +970,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4620/CS 5620.",
+    "pre_coreq list": [
+      "CS 5620"
+    ],
     "instructors": [
       "Stephen Marschner"
     ],
@@ -802,6 +985,10 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2110, CS 2800.",
+    "pre_coreq list": [
+      "CS 2110",
+      "CS 2800"
+    ],
     "instructors": [
       "Bharath Hariharan"
     ],
@@ -816,6 +1003,10 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 5650, INFO 5340, or permission from the instructor.",
+    "pre_coreq list": [
+      "CS 5650",
+      "INFO 5340"
+    ],
     "instructors": [
       "Harald Haraldsson"
     ],
@@ -828,6 +1019,7 @@
     "credits": 3,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Kevin Ellis",
       "Haym Hirsh"
@@ -843,6 +1035,10 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: ORIE 5750 or CS 5785.",
+    "pre_coreq list": [
+      "ORIE 5750",
+      "CS 5785"
+    ],
     "instructors": [
       "Nathan Kallus"
     ],
@@ -857,6 +1053,7 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Hadas Kress-Gazit"
     ],
@@ -875,6 +1072,11 @@
     "credits": 4,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).",
+    "pre_coreq list": [
+      "BTRY 3080",
+      "ECON 3130",
+      "MATH 4710"
+    ],
     "instructors": [
       "Christopher De Sa"
     ],
@@ -889,6 +1091,10 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+    "pre_coreq list": [
+      "CS 4780",
+      "CS 4820"
+    ],
     "instructors": [
       "Karthik Sridharan"
     ],
@@ -903,6 +1109,9 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 5785/ECE 5414/ORIE 5750.",
+    "pre_coreq list": [
+      "ORIE 5750"
+    ],
     "instructors": [
       "Christopher Kanan"
     ],
@@ -915,6 +1124,9 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 5780.",
+    "pre_coreq list": [
+      "CS 5780"
+    ],
     "instructors": [
       "Sarah Dean"
     ],
@@ -929,6 +1141,7 @@
     "credits": 4,
     "offered": "Fall, Spring, Summer.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Eshan Chattopadhyay"
     ],
@@ -943,6 +1156,10 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor.",
+    "pre_coreq list": [
+      "CS 2800",
+      "CS 4810"
+    ],
     "instructors": [
       "Noah Stephens-Davidowitz"
     ],
@@ -957,6 +1174,13 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+    "pre_coreq list": [
+      "CS 2800",
+      "MATH 1910",
+      "MATH 1920",
+      "MATH 2210",
+      "MATH 2940"
+    ],
     "instructors": [
       "Robert Kleinberg"
     ],
@@ -971,6 +1195,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [],
     "crosslisted": []
   },
@@ -984,6 +1209,7 @@
     ],
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Rene Kizilcec"
     ],
@@ -992,10 +1218,11 @@
   "CS 6110": {
     "class": "CS 6110",
     "name": "Advanced Programming Languages",
-    "description": "Study of programming paradigms: functional, imperative, concurrent, and probabilistic programming. Mathematical foundations: inductive definitions, fixed points, and formal semantics. Models of programming languages including the lambda calculus. Type systems, polymorphism, modules, and object-oriented constructs. Program transformations, program logic, and applications to programming methodology.\u00a0",
+    "description": "Study of programming paradigms: functional, imperative, concurrent, and probabilistic programming. Mathematical foundations: inductive definitions, fixed points, and formal semantics. Models of programming languages including the lambda calculus. Type systems, polymorphism, modules, and object-oriented constructs. Program transformations, program logic, and applications to programming methodology.",
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Alexandra Silva"
     ],
@@ -1008,6 +1235,10 @@
     "credits": 4,
     "offered": "Fall.",
     "pre_coreq": "Prerequisite: CS 4120 or CS 5120.",
+    "pre_coreq list": [
+      "CS 4120",
+      "CS 5120"
+    ],
     "instructors": [
       "Adrian Sampson"
     ],
@@ -1020,6 +1251,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: graduate standing in CS or CS majors with CS 3110 grade of B+ or better.",
+    "pre_coreq list": [
+      "CS 3110"
+    ],
     "instructors": [
       "Owolabi Legunsen"
     ],
@@ -1032,6 +1266,9 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: MATH 4310 or permission of instructor.",
+    "pre_coreq list": [
+      "MATH 4310"
+    ],
     "instructors": [
       "Anil Damle"
     ],
@@ -1044,6 +1281,7 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Emma Pierson"
     ],
@@ -1056,6 +1294,11 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: Python; MATH 2210, CS 2110, or CS 2112. Recommended prerequisite: MATH 2230, and/or CS 3110, and/or demonstrated knowledge of Javascript and basic Signal Processing.",
+    "pre_coreq list": [
+      "MATH 2210",
+      "CS 2110",
+      "CS 2112"
+    ],
     "instructors": [
       "Abe Davis"
     ],
@@ -1064,10 +1307,13 @@
   "CS 6740": {
     "class": "CS 6740",
     "name": "Advanced Language Technologies",
-    "description": "Graduate-level introduction to technologies for the computational treatment of information in human-language form, covering modern natural-language processing (NLP) and/or information retrieval (IR). Possible topics include language modeling, word embeddings,\u00a0text categorization and clustering, information extraction, computational syntactic and semantic formalisms, grammar induction, machine translation,\u00a0latent semantic analysis (LSI), and\u00a0clickthrough data for web search.",
+    "description": "Graduate-level introduction to technologies for the computational treatment of information in human-language form, covering modern natural-language processing (NLP) and/or information retrieval (IR). Possible topics include language modeling, word embeddings, text categorization and clustering, information extraction, computational syntactic and semantic formalisms, grammar induction, machine translation, latent semantic analysis (LSI), and clickthrough data for web search.",
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2110 or equivalent, a course in artificial intelligence or any relevant subfield (e.g., NLP, information retrieval, machine learning, Cornell CS courses numbered 47xx or 67xx). Proficiency with using machine learning tools (e.g., fluency at training an SVM, comfort with assessing a classifier's performance using cross-validation).",
+    "pre_coreq list": [
+      "CS 2110"
+    ],
     "instructors": [
       "Claire Cardie"
     ],
@@ -1082,6 +1328,11 @@
     "credits": 3,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience, CS 4780/CS 5780 or CS 6780 or equivalent.",
+    "pre_coreq list": [
+      "CS 2110",
+      "CS 5780",
+      "CS 6780"
+    ],
     "instructors": [
       "Alexander Rush"
     ],
@@ -1094,6 +1345,10 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: MATH 4310 or equivalent, MATH 4720, proficiency in C++ or Python. Recommended prerequisite for undergraduates: MAE 4180 or CS 4750/CS 5750/MAE 4760/ECE 4770. Familiarity with ROS is required.",
+    "pre_coreq list": [
+      "MATH 4310",
+      "MATH 4720"
+    ],
     "instructors": [
       "Tapomayukh Bhattacharjee"
     ],
@@ -1108,6 +1363,7 @@
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Joe Halpern"
     ],
@@ -1116,10 +1372,14 @@
   "CS 6784": {
     "class": "CS 6784",
     "name": "Advanced Topics in Machine Learning",
-    "description": "Extends and complements CS 4780\u00a0and CS 5780, giving in-depth coverage of new and advanced methods in machine learning.",
+    "description": "Extends and complements CS 4780 and CS 5780, giving in-depth coverage of new and advanced methods in machine learning.",
     "credits": 4,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 4780 or CS 5780 or equivalents or permission of instructor.",
+    "pre_coreq list": [
+      "CS 4780",
+      "CS 5780"
+    ],
     "instructors": [
       "Kilian Weinberger"
     ],
@@ -1132,6 +1392,12 @@
     "credits": 3,
     "offered": "Spring.",
     "pre_coreq": "Prerequisite: CS 2110, MATH 1920, MATH 2940, MATH 4710, or permission of instructor.",
+    "pre_coreq list": [
+      "CS 2110",
+      "MATH 1920",
+      "MATH 2940",
+      "MATH 4710"
+    ],
     "instructors": [
       "Volodymyr Kuleshov"
     ],
@@ -1144,6 +1410,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [],
     "crosslisted": []
   },
@@ -1154,6 +1421,9 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "Prerequisite: CS 6110 or permission of instructor.",
+    "pre_coreq list": [
+      "CS 6110"
+    ],
     "instructors": [
       "Dexter Kozen",
       "Adrian Sampson"
@@ -1167,6 +1437,7 @@
     "credits": 1,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Adrian Sampson"
     ],
@@ -1179,6 +1450,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Anil Damle",
       "Alex Townsend"
@@ -1194,6 +1466,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Immanuel Trummer"
     ],
@@ -1206,6 +1479,7 @@
     "credits": 1,
     "offered": "Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Rachit Agarwal"
     ],
@@ -1218,6 +1492,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Robbert VanRenesse"
     ],
@@ -1230,6 +1505,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Bharath Hariharan",
       "Stephen Marschner"
@@ -1243,6 +1519,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Thorsten Joachims"
     ],
@@ -1255,6 +1532,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Claire Cardie",
       "Lillian Lee",
@@ -1269,6 +1547,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Tapomayukh Bhattacharjee"
     ],
@@ -1281,6 +1560,7 @@
     "credits": 1,
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Robert Kleinberg"
     ],
@@ -1296,6 +1576,7 @@
     ],
     "offered": "Fall, Spring.",
     "pre_coreq": "",
+    "pre_coreq list": [],
     "instructors": [
       "Graeme Bailey"
     ],
