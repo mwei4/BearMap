@@ -5,7 +5,12 @@
     "description": "Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming. Weekly labs provide guided practice on the computer, with staff present to help.\u00a0",
     "credits": 4,
     "offered": "Fall, Spring, Summer.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Anne Bracy",
+      "Lillian Lee"
+    ],
+    "crosslisted": []
   },
   "CS 1112": {
     "class": "CS 1112",
@@ -13,7 +18,11 @@
     "description": "Programming and problem solving using MATLAB. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays, recursion, object-oriented programming, and MATLAB graphics. Assignments are designed to build an appreciation for complexity, dimension, fuzzy data, inexact arithmetic, randomness, simulation, and the role of approximation.",
     "credits": 4,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Corequisite: MATH 1110, MATH 1910, or equivalent."
+    "pre_coreq": "Corequisite: MATH 1110, MATH 1910, or equivalent.",
+    "instructors": [
+      "Kit-Yee Daisy Fan"
+    ],
+    "crosslisted": []
   },
   "CS 1132": {
     "class": "CS 1132",
@@ -21,7 +30,11 @@
     "description": "Introduction to the MATLAB programming language. Covers the basic programming constructs of MATLAB, including assignment, conditionals, iteration, functions, arrays, vectorized computation, and scientific graphics. Designed for students who need MATLAB for research or other courses. Does not assume any previous programming experience.",
     "credits": 2,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Kit-Yee Daisy Fan"
+    ],
+    "crosslisted": []
   },
   "CS 1133": {
     "class": "CS 1133",
@@ -29,7 +42,11 @@
     "description": "Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Designed for students who need Python for research or other courses. Does not assume any previous programming experience.",
     "credits": 2,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Craig Frey"
+    ],
+    "crosslisted": []
   },
   "CS 1300": {
     "class": "CS 1300",
@@ -37,7 +54,13 @@
     "description": "The World Wide Web is both a technology and a pervasive and powerful resource in our society and culture. To build functional and effective web sites, students need technical and design skills as well as analytical skills for understanding who is using the web, in what ways they are using it, and for what purposes. In this course, students develop skills in all three of these areas through the use of technologies such as XHTML, Cascading Stylesheets, and PHP. Students study how web sites are deployed and used, usability issues on the web, user-centered design, and methods for visual layout and information architecture. Through the web, this course provides an introduction to the interdisciplinary field of information science.",
     "credits": 3,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Royal Westwater"
+    ],
+    "crosslisted": [
+      "INFO 1300"
+    ]
   },
   "CS 1340": {
     "class": "CS 1340",
@@ -45,7 +68,14 @@
     "description": "Computing requires difficult choices that can have serious implications for real people. This course covers a range of ethical, societal, and policy implications of computing and information. It draws on recent developments in digital technology and their impact on society, situating these in the context of fundamental principles from computing, policy, ethics, and the social sciences. A particular emphasis will be placed on large areas in which advances in computing have consistently raised societal challenges: privacy of individual data; fairness in algorithmic decision-making; dissemination of online content; and accountability in the design of computing systems. As this is an area in which the pace of technological development raises new challenges on a regular basis, the broader goal of the course is to enable students to develop their own analyses of new situations as they emerge at the interface of computing and societal interests.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Jon Kleinberg",
+      "Karen Levy"
+    ],
+    "crosslisted": [
+      "INFO 1260"
+    ]
   },
   "CS 1380": {
     "class": "CS 1380",
@@ -53,7 +83,15 @@
     "description": "This course provides an introduction to data science using the statistical programming language R. We focus on building skills in inferential thinking and computational thinking, guided by the practical questions we seek to answer from data sets arising in medicine, economics and other social sciences. The course starts with essential R programming principles, and how to use R for data manipulation, visualization, and sampling. These techniques are then used to summarize and visualize real data sets, draw meaningful conclusions from those data, and assess the uncertainty surrounding those conclusions. Throughout the process, students will learn to develop hypotheses about their data, and use simulations and statistical techniques to test these hypotheses. The course also covers how to use the Tidyverse open-source R packages to clean and organize complex data sets, and create high quality graphics for data visualization.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Sumanta Basu"
+    ],
+    "crosslisted": [
+      "INFO 1380",
+      "ORIE 1380",
+      "STSCI 1380"
+    ]
   },
   "CS 1710": {
     "class": "CS 1710",
@@ -61,7 +99,16 @@
     "description": "This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.\u00a0",
     "credits": 3,
     "offered": "Spring, Summer.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Shaun Nichols"
+    ],
+    "crosslisted": [
+      "COGST 1101",
+      "LING 1170",
+      "PHIL 1620",
+      "PSYCH 1102"
+    ]
   },
   "CS 1998": {
     "class": "CS 1998",
@@ -72,7 +119,11 @@
       2
     ],
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Walker White"
+    ],
+    "crosslisted": []
   },
   "CS 2043": {
     "class": "CS 2043",
@@ -80,7 +131,11 @@
     "description": "UNIX and UNIX-like systems are increasingly being used on personal computers, mobile phones, web servers, and many other systems. They represent a wonderful family of programming environments useful both to computer scientists and to people in many other fields, such as computational biology and computational linguistics, in which data is naturally represented by strings. This course takes students from shell basics and piping, to regular-expression processing tools, to shell scripting and Python. Other topics to be covered include handling concurrent and remote resources, manipulating streams and files, and managing software installations.",
     "credits": 2,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: one programming course or equivalent programming experience. No previous knowledge of UNIX or expertise in any particular language is assumed."
+    "pre_coreq": "Prerequisite: one programming course or equivalent programming experience. No previous knowledge of UNIX or expertise in any particular language is assumed.",
+    "instructors": [
+      "Ronald DiNapoli"
+    ],
+    "crosslisted": []
   },
   "CS 2110": {
     "class": "CS 2110",
@@ -88,7 +143,14 @@
     "description": "Intermediate programming in a high-level language and introduction to computer science. Topics include object-oriented programming (classes, objects, subclasses, types), graphical user interfaces, algorithm analysis (asymptotic complexity, big \"O\" notation), recursion, testing, program correctness (loop invariants), searching/sorting, data structures (lists, trees, stacks, queues, heaps, search trees, hash tables, graphs), graph algorithms. Java is the principal programming language.",
     "credits": 3,
     "offered": "Fall, Spring, Summer.",
-    "pre_coreq": "Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language."
+    "pre_coreq": "Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language.",
+    "instructors": [
+      "Michael Clarkson",
+      "David Gries"
+    ],
+    "crosslisted": [
+      "ENGRD 2110"
+    ]
   },
   "CS 2111": {
     "class": "CS 2111",
@@ -96,7 +158,12 @@
     "description": "Meets weekly for one hour, in collaboration with CS 2110. Designed to enhance understanding of object-oriented programming, use of the application for writing Java programs, and other programming issues, as well as theoretical concepts that arise in CS 2110. The hour is spent in ways appropriate to the material under study -lecture, question-answer session, problem solving in small groups, one-on-one help, etc.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Corequisite: CS 2110."
+    "pre_coreq": "Corequisite: CS 2110.",
+    "instructors": [
+      "Matthew Eichhorn",
+      "David Gries"
+    ],
+    "crosslisted": []
   },
   "CS 2300": {
     "class": "CS 2300",
@@ -104,7 +171,14 @@
     "description": "Web programming requires the cooperation of two machines: the one in front of the viewer (client) and the one delivering the content (server).\u00a0INFO 1300\u00a0concentrates almost exclusively on the client side. The main emphasis in INFO 2300 is learning about server side processing. Students begin with a short overview of the PHP server-side scripting language, then look at interactions with databases, learning about querying via the database language SQL. Through a succession of projects, students learn how to apply this understanding to the creation of an interactive, data-driven site via PHP and the MYSQL database. Also considered are technologies such as Javascript and Ajax and techniques to enhance security and privacy. Design and usability issues are emphasized. A major component of the course is the creation of a substantial web site.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 1300."
+    "pre_coreq": "Prerequisite: CS 1300.",
+    "instructors": [
+      "Kyle Harms"
+    ],
+    "crosslisted": [
+      "INFO 2300",
+      "NBA 5301"
+    ]
   },
   "CS 2800": {
     "class": "CS 2800",
@@ -112,7 +186,11 @@
     "description": "Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and predicate calculus; combinatorics and discrete mathematics; some basic elements of basic probability theory; basic number theory; sets, functions, and relations; graphs; and finite-state machines. These topics are discussed in the context of applications to many areas of computer science, such as the RSA cryptosystem and web searching.",
     "credits": 3,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite or corequisite: one programming course or permission of instructor."
+    "pre_coreq": "Prerequisite or corequisite: one programming course or permission of instructor.",
+    "instructors": [
+      "Anke van Zuylen"
+    ],
+    "crosslisted": []
   },
   "CS 3110": {
     "class": "CS 3110",
@@ -120,7 +198,12 @@
     "description": "Advanced programming course that emphasizes functional programming techniques and data structures. Programming topics include recursive and higher-order procedures, models of programming language evaluation and compilation, type systems, and polymorphism. Data structures and algorithms covered include graph algorithms, balanced trees, memory heaps, and garbage collection. Also covers techniques for analyzing program performance and correctness.",
     "credits": 4,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800. Should not be taken concurrently with CS 3410 or CS 3420."
+    "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800. Should not be taken concurrently with CS 3410 or CS 3420.",
+    "instructors": [
+      "Nate Foster",
+      "Justin Hsu"
+    ],
+    "crosslisted": []
   },
   "CS 3152": {
     "class": "CS 3152",
@@ -128,7 +211,13 @@
     "description": "A project-based course in which programmers and designers collaborate to make a computer game. This course investigates the theory and practice of developing computer games from a blend of technical, aesthetic, and cultural perspectives. Technical aspects of game architecture include software engineering, artificial intelligence, game physics, computer graphics, and networking. Aesthetic and cultural include art and modeling, sound and music, game balance, and player experience.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite for programmers: CS 2110 or permission of the instructor. Prerequisite for designers: INFO 2450 and/or submission of art/design samples to instructor. Corequisite: ENGRC 3152."
+    "pre_coreq": "Prerequisite for programmers: CS 2110 or permission of the instructor. Prerequisite for designers: INFO 2450 and/or submission of art/design samples to instructor. Corequisite: ENGRC 3152.",
+    "instructors": [
+      "Walker White"
+    ],
+    "crosslisted": [
+      "INFO 3152"
+    ]
   },
   "CS 3410": {
     "class": "CS 3410",
@@ -136,7 +225,11 @@
     "description": "Introduction to computer organization, systems programming and the hardware/ software interface. Topics include instruction sets, computer arithmetic, datapath design, data formats, addressing modes, memory hierarchies including caches and virtual memory, I/O devices, bus-based I/O systems, and multicore architectures. Students learn assembly language programming and design a pipelined RISC processor.",
     "credits": 4,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience. Recommended prerequisite: CS 2024. Should not take CS 3110 concurrently."
+    "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience. Recommended prerequisite: CS 2024. Should not take CS 3110 concurrently.",
+    "instructors": [
+      "Anne Bracy"
+    ],
+    "crosslisted": []
   },
   "CS 3420": {
     "class": "CS 3420",
@@ -144,7 +237,13 @@
     "description": "An introduction to the design of embedded systems, with an emphasis on understanding the interaction between hardware, software, and the physical world. Topics covered include assembly language programming, interrupts, I/O, concurrency management, scheduling, resource management, and real-time constraints.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: ECE 2300/ENGRD 2300. Recommended prerequisite: ECE 2400/ENGRD 2140."
+    "pre_coreq": "Prerequisite: ECE 2300/ENGRD 2300. Recommended prerequisite: ECE 2400/ENGRD 2140.",
+    "instructors": [
+      "Nils Napp"
+    ],
+    "crosslisted": [
+      "ECE 3140"
+    ]
   },
   "CS 4090": {
     "class": "CS 4090",
@@ -155,7 +254,11 @@
       4
     ],
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Dexter Kozen"
+    ],
+    "crosslisted": []
   },
   "CS 4120": {
     "class": "CS 4120",
@@ -163,7 +266,13 @@
     "description": "An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to program analysis and optimization, and compile-time and run-time support for modern programming languages. As part of the course, students will build a working compiler for an object-oriented language.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor, and CS 3420 or CS 3410. Corequisite: CS 4121."
+    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor, and CS 3420 or CS 3410. Corequisite: CS 4121.",
+    "instructors": [
+      "Andrew Myers"
+    ],
+    "crosslisted": [
+      "CS 5120"
+    ]
   },
   "CS 4121": {
     "class": "CS 4121",
@@ -171,7 +280,13 @@
     "description": "Students will build a working compiler for an object-oriented language.",
     "credits": 2,
     "offered": "Spring.",
-    "pre_coreq": "Corequisite: CS 4120."
+    "pre_coreq": "Corequisite: CS 4120.",
+    "instructors": [
+      "Andrew Myers"
+    ],
+    "crosslisted": [
+      "CS 5121"
+    ]
   },
   "CS 4152": {
     "class": "CS 4152",
@@ -179,7 +294,15 @@
     "description": "Project-based follow-up course to CS 3152. Students work in a multidisciplinary team to develop a game that incorporates innovative game technology. Advanced topics include 3D game development, mobile platforms, multiplayer gaming, and nontraditional input devices. There is a special emphasis on developing games that can be submitted to festivals and competitions.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414. Corequisite: ENGRC 4152."
+    "pre_coreq": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414. Corequisite: ENGRC 4152.",
+    "instructors": [
+      "Walker White"
+    ],
+    "crosslisted": [
+      "CS 5152",
+      "INFO 4152",
+      "INFO 5152"
+    ]
   },
   "CS 4160": {
     "class": "CS 4160",
@@ -187,7 +310,13 @@
     "description": "An introduction to formal verification, focusing on correctness of functional and imperative programs relative to mathematical specifications. Topics include computer-assisted theorem proving, logic, programming language semantics, and verification of algorithms and data structures. Assignments involve extensive use of a proof assistant to develop and check proofs.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above)."
+    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above).",
+    "instructors": [
+      "Michael Clarkson"
+    ],
+    "crosslisted": [
+      "CS 5160"
+    ]
   },
   "CS 4220": {
     "class": "CS 4220",
@@ -195,7 +324,14 @@
     "description": "Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250, or permission of the instructor. "
+    "pre_coreq": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250, or permission of the instructor. ",
+    "instructors": [
+      "David Bindel"
+    ],
+    "crosslisted": [
+      "CS 5223",
+      "MATH 4260"
+    ]
   },
   "CS 4410": {
     "class": "CS 4410",
@@ -203,7 +339,13 @@
     "description": "Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed.",
     "credits": 3,
     "offered": "Fall, Spring, Summer.",
-    "pre_coreq": "Prerequisite: CS 3410 or CS 3420."
+    "pre_coreq": "Prerequisite: CS 3410 or CS 3420.",
+    "instructors": [
+      "Robbert VanRenesse"
+    ],
+    "crosslisted": [
+      "CS 5410"
+    ]
   },
   "CS 4411": {
     "class": "CS 4411",
@@ -211,7 +353,13 @@
     "description": "Studies the practical aspects of operating systems through the design and implementation of an operating system kernel that supports multiprogramming, virtual memory, and various input-output devices. All the programming for the project is in a high-level language.",
     "credits": 2,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Corequisite: CS 4410."
+    "pre_coreq": "Corequisite: CS 4410.",
+    "instructors": [
+      "Robbert VanRenesse"
+    ],
+    "crosslisted": [
+      "CS 5411"
+    ]
   },
   "CS 4670": {
     "class": "CS 4670",
@@ -219,7 +367,13 @@
     "description": "An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world-the 3D shape of an environment, the motion of objects, the names of people or things-through analysis of digital images or videos. \u00a0The course covers a range of topics, including 3D reconstruction, image segmentation, object recognition, and vision algorithms fro the Internet, as well as key algorithmic, optimization, and machine learning techniques, such as graph cuts, non-linear least squares, and deep learning. \u00a0This course emphasizes hands-on experience with computer vision, and several large programming projects.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2110, CS 2800."
+    "pre_coreq": "Prerequisite: CS 2110, CS 2800.",
+    "instructors": [
+      "Bharath Hariharan"
+    ],
+    "crosslisted": [
+      "CS 5670"
+    ]
   },
   "CS 4700": {
     "class": "CS 4700",
@@ -227,7 +381,14 @@
     "description": "Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include: knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.",
     "credits": 3,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor."
+    "pre_coreq": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.",
+    "instructors": [
+      "Kevin Ellis",
+      "Haym Hirsh"
+    ],
+    "crosslisted": [
+      "CS 5700"
+    ]
   },
   "CS 4701": {
     "class": "CS 4701",
@@ -235,7 +396,12 @@
     "description": "Artificial Intelligence project class. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetic algorithms, planning, natural language processing, computer vision. Should be taken only by students with significant experience in Artificial Intelligence, such as those who have already taken CS 4700,\u00a0CS 4780, CS 4670, or CS 4740.",
     "credits": 2,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780."
+    "pre_coreq": "Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780.",
+    "instructors": [
+      "Kevin Ellis",
+      "Haym Hirsh"
+    ],
+    "crosslisted": []
   },
   "CS 4744": {
     "class": "CS 4744",
@@ -243,7 +409,15 @@
     "description": "Computational models of natural languages. Topics are drawn from: tree syntax and context free grammar, finite state generative morpho-phonology, feature structure grammars, logical semantics, tabular parsing, Hidden Markov models, categorial and minimalist grammars, text corpora, information-theoretic sentence processing, discourse relations, and pronominal coreference.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: Elementary Python (CS 1133 suffices), LING 1101 or CS 2800 or PHIL 2310. Prerequisite for CS majors: Elementary Python and CS 2800."
+    "pre_coreq": "Prerequisite: Elementary Python (CS 1133 suffices), LING 1101 or CS 2800 or PHIL 2310. Prerequisite for CS majors: Elementary Python and CS 2800.",
+    "instructors": [
+      "Marten van Schijndel"
+    ],
+    "crosslisted": [
+      "COGST 4240",
+      "LING 4424",
+      "LING 6424"
+    ]
   },
   "CS 4758": {
     "class": "CS 4758",
@@ -251,7 +425,17 @@
     "description": "Creating robots capable of performing complex tasks autonomously requires one to address a variety of different challenges such as sensing, perception, control, planning, mechanical design, and interaction with humans. In recent years many advances have been made toward creating such systems, both in the research community (different robot challenges and competitions) and in industry (industrial, military, and domestic robots). This course gives an overview of the challenges and techniques used for creating autonomous mobile robots. Topics include sensing, localization, mapping, path planning, motion planning, obstacle and collision avoidance, and multi-robot control.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: MATLAB programming or permission of instructor."
+    "pre_coreq": "Prerequisite: MATLAB programming or permission of instructor.",
+    "instructors": [
+      "Hadas Kress-Gazit"
+    ],
+    "crosslisted": [
+      "CS 5758",
+      "ECE 4180",
+      "ECE 5772",
+      "MAE 4180",
+      "MAE 5180"
+    ]
   },
   "CS 4780": {
     "class": "CS 4780",
@@ -259,7 +443,13 @@
     "description": "The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.",
     "credits": 4,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110)."
+    "pre_coreq": "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).",
+    "instructors": [
+      "Christopher De Sa"
+    ],
+    "crosslisted": [
+      "CS 5780"
+    ]
   },
   "CS 4783": {
     "class": "CS 4783",
@@ -267,7 +457,13 @@
     "description": "Machine Learning (ML) is a ubiquitous technology. This course, which is a follow up to an introductory course on ML will cover topics that aim to provide a theoretical foundation for designing and analyzing ML algorithms. This course has three basic blocks. First block will provide basic mathematical and statistical toolset required for formalizing ML problems effectively and analyzing them. This block will include topics like generalization, sample complexity of learning algorithm and understanding the inherent challenges in various ML frameworks and models. The second block will provide the foundations in algorithms design and optimization techniques required for building and analyzing various ML algorithms. This block will cover topics like gradient descent, stochastic gradient descent, algorithm design for online learning and computational challenges in ML. ML algorithms are deployed in real world and make decisions that affect real world users. The third block, will cover topics on how to formally reason about and how to design ML methods that address social and user related concerns that ML algorithms need to deal with. This block will cover topics such as fairness, privacy, the right to be forgotten and other such issues and how to build ML algorithms that address or assuage these concerns.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4780, CS 4820 or equivalent."
+    "pre_coreq": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+    "instructors": [
+      "Karthik Sridharan"
+    ],
+    "crosslisted": [
+      "CS 5783"
+    ]
   },
   "CS 4789": {
     "class": "CS 4789",
@@ -275,7 +471,13 @@
     "description": "Reinforcement Learning is one of the most popular paradigms for modelling interactive learning and sequential decision making in dynamical environments. This course introduces the basics of Reinforcement Learning and the Markov Decision Process. The course will cover algorithms for planning and learning in Markov Decision Processes. We will discuss potential applications of Reinforcement Learning and their implications.\u00a0We will study and implement classic Reinforcement Learning algorithms.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4780."
+    "pre_coreq": "Prerequisite: CS 4780.",
+    "instructors": [
+      "Sarah Dean"
+    ],
+    "crosslisted": [
+      "CS 5789"
+    ]
   },
   "CS 4810": {
     "class": "CS 4810",
@@ -283,7 +485,11 @@
     "description": "Introduction to the modern theory of computing: automata theory, formal languages, and effective computability.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2800 or permission of instructor."
+    "pre_coreq": "Prerequisite: CS 2800 or permission of instructor.",
+    "instructors": [
+      "Dexter Kozen"
+    ],
+    "crosslisted": []
   },
   "CS 4820": {
     "class": "CS 4820",
@@ -291,7 +497,13 @@
     "description": "Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases , approximation algorithms, local search heuristics, and online algorithms).",
     "credits": 4,
     "offered": "Fall, Spring, Summer.",
-    "pre_coreq": "Prerequisite: CS 2800, CS 3110. "
+    "pre_coreq": "Prerequisite: CS 2800, CS 3110. ",
+    "instructors": [
+      "Eshan Chattopadhyay"
+    ],
+    "crosslisted": [
+      "CS 5820"
+    ]
   },
   "CS 4830": {
     "class": "CS 4830",
@@ -299,7 +511,13 @@
     "description": "A rigorous introduction to the theoretical foundations of the cryptography\u00a0that powers much of the modern world. Topics include one-way functions, secret-key encryption, zero-knowledge proofs, signatures, public-key encryption etc.\u00a0As this is a theoretical class, the emphasis will be on formal definitions and proofs.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4820."
+    "pre_coreq": "Prerequisite: CS 4820.",
+    "instructors": [
+      "Noah Stephens-Davidowitz"
+    ],
+    "crosslisted": [
+      "CS 5830"
+    ]
   },
   "CS 4850": {
     "class": "CS 4850",
@@ -307,7 +525,13 @@
     "description": "Covers the mathematical foundations for access to information. Topics include high dimensional space, random graphs, singular value decomposition, Markov processes, learning theory, and algorithms for massive data.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940."
+    "pre_coreq": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+    "instructors": [
+      "Robert Kleinberg"
+    ],
+    "crosslisted": [
+      "CS 5850"
+    ]
   },
   "CS 4852": {
     "class": "CS 4852",
@@ -315,7 +539,15 @@
     "description": "Networks II builds on its prerequisite course and continues to examine how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects these worlds. In this course, we will construct mathematical models for and analyze networked settings, allowing us to both make predictions about behavior in such systems, as well as reason about how to design such systems to exhibit some desirable behavior. Throughout, we will draw on real-world examples such as social networks, peer-to-peer filesharing, Internet markets, and crowdsourcing, that illustrate these phenomena.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: INFO 2040, CS 2800 or equivalent."
+    "pre_coreq": "Prerequisite: INFO 2040, CS 2800 or equivalent.",
+    "instructors": [
+      "Cristobal Cheyre Forestier"
+    ],
+    "crosslisted": [
+      "ECON 3825",
+      "INFO 4220",
+      "INFO 6220"
+    ]
   },
   "CS 4997": {
     "class": "CS 4997",
@@ -323,7 +555,11 @@
     "description": "This independent study course offers CS majors (i.e., undergraduates whose applications to affiliate with the CS major have been approved)\u00a0an opportunity to reflect on concepts from computer science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the computer science major.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Lillian Lee"
+    ],
+    "crosslisted": []
   },
   "CS 4998": {
     "class": "CS 4998",
@@ -334,7 +570,11 @@
       4
     ],
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Kavita Bala"
+    ],
+    "crosslisted": []
   },
   "CS 4999": {
     "class": "CS 4999",
@@ -345,7 +585,11 @@
       4
     ],
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Wen Sun"
+    ],
+    "crosslisted": []
   },
   "CS 5120": {
     "class": "CS 5120",
@@ -353,7 +597,13 @@
     "description": "An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to program analysis and optimization, and compile-time and run-time support for modern programming languages. As part of the course, students will build a working compiler for an object-oriented language.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor, CS 3420 or CS 3410. Corequisite: CS 5121."
+    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor, CS 3420 or CS 3410. Corequisite: CS 5121.",
+    "instructors": [
+      "Andrew Myers"
+    ],
+    "crosslisted": [
+      "CS 4120"
+    ]
   },
   "CS 5121": {
     "class": "CS 5121",
@@ -361,7 +611,13 @@
     "description": "Students will build a working compiler for an object-oriented language.",
     "credits": 2,
     "offered": "Spring.",
-    "pre_coreq": "Corequisite: CS 5120."
+    "pre_coreq": "Corequisite: CS 5120.",
+    "instructors": [
+      "Andrew Myers"
+    ],
+    "crosslisted": [
+      "CS 4121"
+    ]
   },
   "CS 5135": {
     "class": "CS 5135",
@@ -369,7 +625,13 @@
     "description": "This course in Discrete Optimization is focused on Nondeterministic Polynomial-hard problems but with a very strong focus on the use of Mixed-Integer Linear Programming, general-purpose solvers to attack them.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: ORIE 5380/CS 5727 or some knowledge of linear programming."
+    "pre_coreq": "Prerequisite: ORIE 5380/CS 5727 or some knowledge of linear programming.",
+    "instructors": [
+      "Andrea Lodi"
+    ],
+    "crosslisted": [
+      "ORIE 5135"
+    ]
   },
   "CS 5150": {
     "class": "CS 5150",
@@ -377,7 +639,11 @@
     "description": "Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems. Special topics include professionalism, project management, and the legal framework for software development. As a central part of the course, student teams carry out projects for real clients, using concepts of agile software development. Each project includes all aspects of software development from a feasibility study to final delivery.\"",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2110 or equivalent experience programming in Java or C++."
+    "pre_coreq": "Prerequisite: CS 2110 or equivalent experience programming in Java or C++.",
+    "instructors": [
+      "Curran Muhlberger"
+    ],
+    "crosslisted": []
   },
   "CS 5152": {
     "class": "CS 5152",
@@ -385,7 +651,15 @@
     "description": "Students work in a multidisciplinary team to develop a game that incorporates innovative game technology. Advanced topics include 3D game development, mobile platforms, multiplayer gaming, and nontraditional input devices. There is a special emphasis on developing games that can be submitted to festivals and competitions.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414. Corequisite: ENGRC 5152."
+    "pre_coreq": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 4700 or CS 5414. Corequisite: ENGRC 5152.",
+    "instructors": [
+      "Walker White"
+    ],
+    "crosslisted": [
+      "CS 4152",
+      "INFO 4152",
+      "INFO 5152"
+    ]
   },
   "CS 5160": {
     "class": "CS 5160",
@@ -393,7 +667,13 @@
     "description": "An introduction to formal verification, focusing on correctness of functional and imperative programs relative to mathematical specifications. Topics include computer-assisted theorem proving, logic, programming language semantics, and verification of algorithms and data structures. Assignments involve extensive use of a proof assistant to develop and check proofs.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above). "
+    "pre_coreq": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above). ",
+    "instructors": [
+      "Michael Clarkson"
+    ],
+    "crosslisted": [
+      "CS 4160"
+    ]
   },
   "CS 5223": {
     "class": "CS 5223",
@@ -401,7 +681,14 @@
     "description": "Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250 or permission of instructor."
+    "pre_coreq": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250 or permission of instructor.",
+    "instructors": [
+      "David Bindel"
+    ],
+    "crosslisted": [
+      "CS 4220",
+      "MATH 4260"
+    ]
   },
   "CS 5304": {
     "class": "CS 5304",
@@ -409,7 +696,13 @@
     "description": "Massive amounts of data are collected by many companies and organizations and the task of a data scientist is to extract actionable knowledge from the data \u2013 for scientific needs, to improve public health, to promote businesses, for social studies and for various other purposes. This course will focus on the practical aspects of the field and will attempt to provide a comprehensive set of tools for extracting knowledge from data.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Rajalakshmi Nandakumar"
+    ],
+    "crosslisted": [
+      "INFO 5304"
+    ]
   },
   "CS 5356": {
     "class": "CS 5356",
@@ -417,7 +710,11 @@
     "description": "This course aims to bridge the gap between academic studies of computer science and production software engineering. The course provides a fast-paced introduction to key tools and techniques that can facilitate the building of prototypes and of actual working systems. It introduces technologies for building Web applications and mobile applications, systems for effective storage of data, and tools that support and ease code writing, such as distributed version-control systems, editors and debuggers.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2110 or CS 2112."
+    "pre_coreq": "Prerequisite: CS 2110 or CS 2112.",
+    "instructors": [
+      "Danny Aslam-Perez"
+    ],
+    "crosslisted": []
   },
   "CS 5410": {
     "class": "CS 5410",
@@ -425,7 +722,13 @@
     "description": "Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed.",
     "credits": 3,
     "offered": "Fall, Spring, Summer.",
-    "pre_coreq": "Prerequisite: CS 3410 or CS 3420."
+    "pre_coreq": "Prerequisite: CS 3410 or CS 3420.",
+    "instructors": [
+      "Robbert VanRenesse"
+    ],
+    "crosslisted": [
+      "CS 4410"
+    ]
   },
   "CS 5411": {
     "class": "CS 5411",
@@ -433,7 +736,13 @@
     "description": "Studies the practical aspects of operating systems through the design and implementation of an operating system kernel that supports multiprogramming, virtual memory, and various input-output devices. All the programming for the project is in a high-level language.",
     "credits": 2,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Corequisite: CS 5410."
+    "pre_coreq": "Corequisite: CS 5410.",
+    "instructors": [
+      "Robbert VanRenesse"
+    ],
+    "crosslisted": [
+      "CS 4411"
+    ]
   },
   "CS 5412": {
     "class": "CS 5412",
@@ -441,7 +750,11 @@
     "description": "Focuses on cloud computing, large-scale Internet applications, and other practical issues in designing and implementing trustworthy, scalable distributed software.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4410 or permission of instructor."
+    "pre_coreq": "Prerequisite: CS 4410 or permission of instructor.",
+    "instructors": [
+      "Ken Birman"
+    ],
+    "crosslisted": []
   },
   "CS 5433": {
     "class": "CS 5433",
@@ -449,7 +762,11 @@
     "description": "Viewed variously as a niche currency for online criminals and a technological threat to the financial industry, Bitcoin has fueled mythmaking, financial speculation, and real technological innovation. We will study both Bitcoin and the technological landscape it has inspired and catalyzed. Topics will include: the mechanics of consensus algorithms, such as Proof of Work and Byzantine Consensus, and their role in blockchains and cryptocurrencies; cryptographic tools employed in cryptocurrencies, including digital signatures algorithm and zero-knowledge proofs; the evolution and mechanics of Bitcoin and its ecosystem; smart contracts; and special topics, such as trusted hardware in blockchain-based systems, smart contracts and real-world contract law, and cryptocurrencies and crime. Grading will be based on homework assignments and a final exam.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Ari Juels"
+    ],
+    "crosslisted": []
   },
   "CS 5436": {
     "class": "CS 5436",
@@ -457,7 +774,14 @@
     "description": "This course introduces students to privacy technologies and surveys the current state of digital privacy from multiple perspectives, including technology, law, policy, ethics, economics, and surveillance.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Helen Nissenbaum",
+      "Vitaly Shmatikov"
+    ],
+    "crosslisted": [
+      "INFO 5303"
+    ]
   },
   "CS 5625": {
     "class": "CS 5625",
@@ -465,7 +789,11 @@
     "description": "Methods for interactive computer graphics, targeting applications including games, visualization, design, and immersive environments. Introduces students to state-of-the-art interactive techniques and programmable shading. Programming assignments use C++ and OpenGL, and students also propose and implement an open-ended final project.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4620/CS 5620."
+    "pre_coreq": "Prerequisite: CS 4620/CS 5620.",
+    "instructors": [
+      "Stephen Marschner"
+    ],
+    "crosslisted": []
   },
   "CS 5670": {
     "class": "CS 5670",
@@ -473,7 +801,13 @@
     "description": "An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world - including the 3D shape of an environment, the motion of objects, and the names of things - through analysis of digital images or videos. The course covers a range of topics, including low-level vision, 3D reconstruction, and object recognition, as well as key algorithmic, optimization, and machine learning techniques, including deep learning. This course emphasizes hands-on experience with computer vision and includes several programming projects.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2110, CS 2800."
+    "pre_coreq": "Prerequisite: CS 2110, CS 2800.",
+    "instructors": [
+      "Bharath Hariharan"
+    ],
+    "crosslisted": [
+      "CS 4670"
+    ]
   },
   "CS 5678": {
     "class": "CS 5678",
@@ -481,7 +815,11 @@
     "description": "This course explores the field of Mixed Reality through research topics at the intersection of Computer Vision, Computer Graphics, and Human-Computer Interaction. Topics covered may include but not limited to: 3D interaction techniques, remote collaboration, tracking methods, photometric registration, navigation and more. Students will complete a research-oriented project with focus on a selected topic of interest. Deliverables include project proposal, milestones, final report, and other submissions such as software prototypes where applicable.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 5650, INFO 5340, or permission from the instructor."
+    "pre_coreq": "Prerequisite: CS 5650, INFO 5340, or permission from the instructor.",
+    "instructors": [
+      "Harald Haraldsson"
+    ],
+    "crosslisted": []
   },
   "CS 5700": {
     "class": "CS 5700",
@@ -489,7 +827,14 @@
     "description": "Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include: knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.",
     "credits": 3,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Kevin Ellis",
+      "Haym Hirsh"
+    ],
+    "crosslisted": [
+      "CS 4700"
+    ]
   },
   "CS 5726": {
     "class": "CS 5726",
@@ -497,7 +842,13 @@
     "description": "This course covers the analysis of data for making decisions with applications to electronic commerce, AI and intelligent agents, business analytics, and personalized medicine. The focus will be on learning good and automated decision policies, inferring causal effects of potential decisions, and interactive and intelligent systems that learn through acting and act to learn. Topics include A/B testing, sequential decision making and bandits, decision theory, risk minimization and generalization, Markov decision processes, reinforcement learning, analysis of observational data, instrumental variable analysis, and algorithmic fairness of personalized decision policies. Students are expected to have taken a first course in machine learning and have working knowledge of calculus, probability, and linear algebra as well as a modern scripting language such as Python.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: ORIE 5750 or CS 5785."
+    "pre_coreq": "Prerequisite: ORIE 5750 or CS 5785.",
+    "instructors": [
+      "Nathan Kallus"
+    ],
+    "crosslisted": [
+      "ORIE 5751"
+    ]
   },
   "CS 5758": {
     "class": "CS 5758",
@@ -505,7 +856,17 @@
     "description": "Creating robots capable of performing complex tasks autonomously requires one to address a variety of different challenges such as sensing, perception, control, planning, mechanical design, and interaction with humans. In recent years many advances have been made toward creating such systems, both in the research community (different robot challenges and competitions) and in industry (industrial, military, and domestic robots). This course gives an overview of the challenges and techniques used for creating autonomous mobile robots. Topics include sensing, localization, mapping, path planning, motion planning, obstacle and collision avoidance, and multi-robot control.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Hadas Kress-Gazit"
+    ],
+    "crosslisted": [
+      "CS 4758",
+      "ECE 4180",
+      "ECE 5772",
+      "MAE 4180",
+      "MAE 5180"
+    ]
   },
   "CS 5780": {
     "class": "CS 5780",
@@ -513,7 +874,13 @@
     "description": "The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.",
     "credits": 4,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110)."
+    "pre_coreq": "Prerequisite: probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940) and calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).",
+    "instructors": [
+      "Christopher De Sa"
+    ],
+    "crosslisted": [
+      "CS 4780"
+    ]
   },
   "CS 5783": {
     "class": "CS 5783",
@@ -521,7 +888,13 @@
     "description": "Machine Learning (ML) is a ubiquitous technology. This course, which is a follow up to an introductory course on ML will cover topics that aim to provide a theoretical foundation for designing and analyzing ML algorithms. This course has three basic blocks. First block will provide basic mathematical and statistical toolset required for formalizing ML problems effectively and analyzing them. This block will include topics like generalization, sample complexity of learning algorithm and understanding the inherent challenges in various ML frameworks and models. The second block will provide the foundations in algorithms design and optimization techniques required for building and analyzing various ML algorithms. This block will cover topics like gradient descent, stochastic gradient descent, algorithm design for online learning and computational challenges in ML. ML algorithms are deployed in real world and make decisions that affect real world users. The third block, will cover topics on how to formally reason about and how to design ML methods that address social and user related concerns that ML algorithms need to deal with. This block will cover topics such as fairness, privacy, the right to be forgotten and other such issues and how to build ML algorithms that address or assuage these concerns.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4780, CS 4820 or equivalent."
+    "pre_coreq": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+    "instructors": [
+      "Karthik Sridharan"
+    ],
+    "crosslisted": [
+      "CS 4783"
+    ]
   },
   "CS 5787": {
     "class": "CS 5787",
@@ -529,7 +902,11 @@
     "description": "Students will learn deep neural network fundamentals, including, but not limited to, feed-forward neural networks, convolutional neural networks, network architecture, optimization methods, practical issues, hardware concerns, recurrent neural networks, dataset acquisition, dataset bias, adversarial examples, current limitations of deep learning, and visualization techniques. We still study applications to problems in computer vision and to a lesser extent natural language processing and reinforcement learning. There will also be a session on understanding publications in deep learning, which is a critical skill in this fast moving area.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 5785/ECE 5414/ORIE 5750."
+    "pre_coreq": "Prerequisite: CS 5785/ECE 5414/ORIE 5750.",
+    "instructors": [
+      "Christopher Kanan"
+    ],
+    "crosslisted": []
   },
   "CS 5789": {
     "class": "CS 5789",
@@ -537,7 +914,13 @@
     "description": "Reinforcement Learning is one of the most popular paradigms for modelling interactive learning and sequential decision making in dynamical environments. This course introduces the basics of Reinforcement Learning and Markov Decision Process. The course will cover algorithms for planning and learning in Markov Decision Processes. We will discuss potential applications of Reinforcement Learning and their implications. We will study and implement classic Reinforcement Learning algorithms.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 5780."
+    "pre_coreq": "Prerequisite: CS 5780.",
+    "instructors": [
+      "Sarah Dean"
+    ],
+    "crosslisted": [
+      "CS 4789"
+    ]
   },
   "CS 5820": {
     "class": "CS 5820",
@@ -545,7 +928,13 @@
     "description": "Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases, approximation algorithms, local search heuristics, and online algorithms).",
     "credits": 4,
     "offered": "Fall, Spring, Summer.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Eshan Chattopadhyay"
+    ],
+    "crosslisted": [
+      "CS 4820"
+    ]
   },
   "CS 5830": {
     "class": "CS 5830",
@@ -553,7 +942,13 @@
     "description": "Introductory course in Cryptography. Topics include one-way functions, encryption, digital signatures, pseudo-random number generation, zero-knowledge and basic protocols. The emphasis will be on fundamental notions and constructions with proofs of security based on precise definitions and assumptions.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor."
+    "pre_coreq": "Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor.",
+    "instructors": [
+      "Noah Stephens-Davidowitz"
+    ],
+    "crosslisted": [
+      "CS 4830"
+    ]
   },
   "CS 5850": {
     "class": "CS 5850",
@@ -561,7 +956,13 @@
     "description": "Covers the mathematical foundations for access to information. Topics include high dimensional space, random graphs, singular value decomposition, Markov processes, learning theory, and algorithms for massive data.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940."
+    "pre_coreq": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+    "instructors": [
+      "Robert Kleinberg"
+    ],
+    "crosslisted": [
+      "CS 4850"
+    ]
   },
   "CS 5998": {
     "class": "CS 5998",
@@ -569,7 +970,9 @@
     "description": "Off-campus internship with industry in which a student gains knowledge and experience in the field of computer science.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [],
+    "crosslisted": []
   },
   "CS 5999": {
     "class": "CS 5999",
@@ -580,7 +983,11 @@
       6
     ],
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Rene Kizilcec"
+    ],
+    "crosslisted": []
   },
   "CS 6110": {
     "class": "CS 6110",
@@ -588,7 +995,11 @@
     "description": "Study of programming paradigms: functional, imperative, concurrent, and probabilistic programming. Mathematical foundations: inductive definitions, fixed points, and formal semantics. Models of programming languages including the lambda calculus. Type systems, polymorphism, modules, and object-oriented constructs. Program transformations, program logic, and applications to programming methodology.\u00a0",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Alexandra Silva"
+    ],
+    "crosslisted": []
   },
   "CS 6120": {
     "class": "CS 6120",
@@ -596,7 +1007,11 @@
     "description": "This is a hands-on course about implementing programming languages. It covers intermediate representations, classic optimization, runtime systems, and more advanced techniques such as parallelization, just-in-time compilation, and garbage collection. Course work consists of reading and discussing both classic and modern research papers and implementation projects based on the LLVM compiler infrastructure.",
     "credits": 4,
     "offered": "Fall.",
-    "pre_coreq": "Prerequisite: CS 4120 or CS 5120."
+    "pre_coreq": "Prerequisite: CS 4120 or CS 5120.",
+    "instructors": [
+      "Adrian Sampson"
+    ],
+    "crosslisted": []
   },
   "CS 6156": {
     "class": "CS 6156",
@@ -604,7 +1019,11 @@
     "description": "Runtime Verification (RV) is a lightweight formal method for checking program executions against specifications. Foundations, algorithms, and tools for major approaches to RV will be covered, including monitor synthesis, specification languages, parametric monitoring, monitorability, instrumentation, and static analysis for reducing RV overhead. Students will become familiar with recent research results and challenges in RV, gain experience with RV tools, and conduct a research project.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: graduate standing in CS or CS majors with CS 3110 grade of B+ or better."
+    "pre_coreq": "Prerequisite: graduate standing in CS or CS majors with CS 3110 grade of B+ or better.",
+    "instructors": [
+      "Owolabi Legunsen"
+    ],
+    "crosslisted": []
   },
   "CS 6210": {
     "class": "CS 6210",
@@ -612,7 +1031,11 @@
     "description": "Stable and efficient algorithms for linear equations, least squares, and eigenvalue problems. Direct and iterative methods are considered. Numerical programming is used extensively.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: MATH 4310 or permission of instructor."
+    "pre_coreq": "Prerequisite: MATH 4310 or permission of instructor.",
+    "instructors": [
+      "Anil Damle"
+    ],
+    "crosslisted": []
   },
   "CS 6382": {
     "class": "CS 6382",
@@ -620,7 +1043,11 @@
     "description": "This seminar will discuss 1) how to do academic research which accomplishes social change and 2) how to increase the impact of academic research by writing about findings to a mass audience and to policymakers. Each week, we will spend one lecture discussing academic papers which accomplished social change and one lecture discussing writing for a mass audience. The seminar will feature guest lecturers from academia and journalism, and students will work on a final writing project which communicates research findings to a mass audience.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Emma Pierson"
+    ],
+    "crosslisted": []
   },
   "CS 6682": {
     "class": "CS 6682",
@@ -628,7 +1055,11 @@
     "description": "This course will focus on computational tools and methods for content creation in different domains. We will cover methods used in interactive artistic applications (visual arts, film, music, video games) as well as domains where complete automation is the goal (e.g., photometric reconstruction and image-based rendering, data augmentation). The course will involve a mix of lectures given by the instructor and presentations/discussions about research papers that will be assigned to students. Topics will include: different representations of images (e.g., vector and raster graphics), 3D models (e.g., surface manifolds vs volumetric representations), and audio (e.g., time signals vs short-time spectra), as well as parametric control of these representations and their relation to other types of data.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: Python; MATH 2210, CS 2110, or CS 2112. Recommended prerequisite: MATH 2230, and/or CS 3110, and/or demonstrated knowledge of Javascript and basic Signal Processing."
+    "pre_coreq": "Prerequisite: Python; MATH 2210, CS 2110, or CS 2112. Recommended prerequisite: MATH 2230, and/or CS 3110, and/or demonstrated knowledge of Javascript and basic Signal Processing.",
+    "instructors": [
+      "Abe Davis"
+    ],
+    "crosslisted": []
   },
   "CS 6740": {
     "class": "CS 6740",
@@ -636,7 +1067,13 @@
     "description": "Graduate-level introduction to technologies for the computational treatment of information in human-language form, covering modern natural-language processing (NLP) and/or information retrieval (IR). Possible topics include language modeling, word embeddings,\u00a0text categorization and clustering, information extraction, computational syntactic and semantic formalisms, grammar induction, machine translation,\u00a0latent semantic analysis (LSI), and\u00a0clickthrough data for web search.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2110 or equivalent, a course in artificial intelligence or any relevant subfield (e.g., NLP, information retrieval, machine learning, Cornell CS courses numbered 47xx or 67xx). Proficiency with using machine learning tools (e.g., fluency at training an SVM, comfort with assessing a classifier's performance using cross-validation)."
+    "pre_coreq": "Prerequisite: CS 2110 or equivalent, a course in artificial intelligence or any relevant subfield (e.g., NLP, information retrieval, machine learning, Cornell CS courses numbered 47xx or 67xx). Proficiency with using machine learning tools (e.g., fluency at training an SVM, comfort with assessing a classifier's performance using cross-validation).",
+    "instructors": [
+      "Claire Cardie"
+    ],
+    "crosslisted": [
+      "INFO 6300"
+    ]
   },
   "CS 6741": {
     "class": "CS 6741",
@@ -644,7 +1081,11 @@
     "description": "Robust language understanding has the potential to transform how we interact with computers, extract information from text and study language on large scale. This research-oriented course examines machine learning and inference methods for recovering language structure and meaning. Possible topics include structured prediction and deep learning, methods for situated language understanding, language grounding, and learning to generate text.",
     "credits": 3,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience, CS 4780/CS 5780 or CS 6780 or equivalent."
+    "pre_coreq": "Prerequisite: CS 2110 or equivalent programming experience, CS 4780/CS 5780 or CS 6780 or equivalent.",
+    "instructors": [
+      "Alexander Rush"
+    ],
+    "crosslisted": []
   },
   "CS 6751": {
     "class": "CS 6751",
@@ -652,7 +1093,13 @@
     "description": "Robot manipulation is the ability for a robot to interact physically with objects in the world and manipulate them towards completing a task. It is one of the greatest technical challenges in robotics, due primarily to the interplay of uncertainty about the world and clutter within it. As robots become integrated into complex human environments, robot manipulation is increasingly necessary to assist humans in these unstructured environments. Robotic manipulation will enable applications like personal assistant robots in the home and factory worker robots in advanced manufacturing. This course covers the fundamental theory, concepts, and systems of robot manipulation, including both software and hardware.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: MATH 4310 or equivalent, MATH 4720, proficiency in C++ or Python. Recommended prerequisite for undergraduates: MAE 4180 or CS 4750/CS 5750/MAE 4760/ECE 4770. Familiarity with ROS is required."
+    "pre_coreq": "Prerequisite: MATH 4310 or equivalent, MATH 4720, proficiency in C++ or Python. Recommended prerequisite for undergraduates: MAE 4180 or CS 4750/CS 5750/MAE 4760/ECE 4770. Familiarity with ROS is required.",
+    "instructors": [
+      "Tapomayukh Bhattacharjee"
+    ],
+    "crosslisted": [
+      "MAE 6730"
+    ]
   },
   "CS 6764": {
     "class": "CS 6764",
@@ -660,7 +1107,11 @@
     "description": "Knowledge plays a crucial role in distributed systems, game theory, and artificial intelligence. Material examines formalizing reasoning about knowledge and the extent to which knowledge is applicable to those areas. Issues include common knowledge, knowledge-based programs, applying knowledge to analyzing distributed systems, attainable states of knowledge, modeling resource-bounded reasoning, and connections to game theory.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Joe Halpern"
+    ],
+    "crosslisted": []
   },
   "CS 6784": {
     "class": "CS 6784",
@@ -668,7 +1119,11 @@
     "description": "Extends and complements CS 4780\u00a0and CS 5780, giving in-depth coverage of new and advanced methods in machine learning.",
     "credits": 4,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 4780 or CS 5780 or equivalents or permission of instructor."
+    "pre_coreq": "Prerequisite: CS 4780 or CS 5780 or equivalents or permission of instructor.",
+    "instructors": [
+      "Kilian Weinberger"
+    ],
+    "crosslisted": []
   },
   "CS 6785": {
     "class": "CS 6785",
@@ -676,7 +1131,11 @@
     "description": "Generative models are a class of machine learning algorithms that define probability distributions over complex, high-dimensional objects such as images, sequences, and graphs. Recent advances in deep neural networks and optimization algorithms have significantly enhanced the capabilities of these models and renewed research interest in them. This course explores the foundational probabilistic principles of deep generative models, their learning algorithms, and popular model families, which include variational autoencoders, generative adversarial networks, autoregressive models, and normalizing flows. The course also covers applications in domains such as computer vision, natural language processing, and biomedicine, and draws connections to the field of reinforcement learning.",
     "credits": 3,
     "offered": "Spring.",
-    "pre_coreq": "Prerequisite: CS 2110, MATH 1920, MATH 2940, MATH 4710, or permission of instructor."
+    "pre_coreq": "Prerequisite: CS 2110, MATH 1920, MATH 2940, MATH 4710, or permission of instructor.",
+    "instructors": [
+      "Volodymyr Kuleshov"
+    ],
+    "crosslisted": []
   },
   "CS 7090": {
     "class": "CS 7090",
@@ -684,7 +1143,9 @@
     "description": "Weekly meeting for the discussion and study of important topics in the field.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [],
+    "crosslisted": []
   },
   "CS 7190": {
     "class": "CS 7190",
@@ -692,7 +1153,12 @@
     "description": "The Programming Languages Discussion Group meets weekly to discuss papers in the area of programming languages, program analysis, and compilers. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in this area. The seminar is open to everybody interested in languages and compilers. First-year and second-year students are especially encouraged to participate.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": "Prerequisite: CS 6110 or permission of instructor."
+    "pre_coreq": "Prerequisite: CS 6110 or permission of instructor.",
+    "instructors": [
+      "Dexter Kozen",
+      "Adrian Sampson"
+    ],
+    "crosslisted": []
   },
   "CS 7194": {
     "class": "CS 7194",
@@ -700,7 +1166,11 @@
     "description": "This seminar covers classic papers in the area of programming languages. The goal is to give students an in-depth introduction to some of the most important ideas in the field, to provide a foundation for advanced research. Participants will be expected to read one or two papers each week, and to lead one presentation each semester. The seminar is open to everybody interested in programming languages. First and second-year graduate students are especially encouraged to participate.",
     "credits": 1,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Adrian Sampson"
+    ],
+    "crosslisted": []
   },
   "CS 7290": {
     "class": "CS 7290",
@@ -708,7 +1178,14 @@
     "description": "Talks on various methods in scientific computing, the analysis of their convergence properties and computational efficiency, and their adaptation to specific applications.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Anil Damle",
+      "Alex Townsend"
+    ],
+    "crosslisted": [
+      "MATH 7290"
+    ]
   },
   "CS 7390": {
     "class": "CS 7390",
@@ -716,7 +1193,11 @@
     "description": "The database seminar is the weekly meeting of students and faculty interested in data management and data mining at Cornell. We typically discuss one or two papers on related topics per session. We focus on recent and seminal papers of general interest.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Immanuel Trummer"
+    ],
+    "crosslisted": []
   },
   "CS 7420": {
     "class": "CS 7420",
@@ -724,7 +1205,11 @@
     "description": "This course will allow students to gain an in-depth learning about a subarea in computer systems, either a classical one or an emerging one. Students will read and discuss recent papers in the selected subarea, and work on a collaborative project. Each offering of the course may choose a different subarea.",
     "credits": 1,
     "offered": "Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Rachit Agarwal"
+    ],
+    "crosslisted": []
   },
   "CS 7490": {
     "class": "CS 7490",
@@ -732,7 +1217,11 @@
     "description": "The Systems Research Seminar discusses recent, interesting papers in the systems area, broadly defined to span operating systems, distributed systems, networking, architecture, databases, security, and programming languages. The goal is to foster technical discussions among the Cornell systems research community.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Robbert VanRenesse"
+    ],
+    "crosslisted": []
   },
   "CS 7690": {
     "class": "CS 7690",
@@ -740,7 +1229,12 @@
     "description": "The Graphics/Vision Research Seminar discusses recent research in the areas of computer graphics and computer vision. The goal is to foster technical discussions and collaboration among the Cornell graphics and vision research community.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Bharath Hariharan",
+      "Stephen Marschner"
+    ],
+    "crosslisted": []
   },
   "CS 7790": {
     "class": "CS 7790",
@@ -748,7 +1242,11 @@
     "description": "The AI seminar will meet weekly for lectures by graduate students, faculty, and researchers emphasizing work-in-progress and recent results in AI research.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Thorsten Joachims"
+    ],
+    "crosslisted": []
   },
   "CS 7794": {
     "class": "CS 7794",
@@ -756,7 +1254,13 @@
     "description": "This course, the NLP seminar, is a weekly meeting for people currently or soon to be actively doing research in NLP. (Students simply looking to learn more about NLP should not enroll, but should take one of our lecture courses instead.) One participant leads discussion each week, either of a recently published paper or of their own work in progress. Attendance at all sessions is mandatory.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Claire Cardie",
+      "Lillian Lee",
+      "Alexander Rush"
+    ],
+    "crosslisted": []
   },
   "CS 7796": {
     "class": "CS 7796",
@@ -764,7 +1268,11 @@
     "description": "Informal seminar in which current topics in robotics are discussed.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Tapomayukh Bhattacharjee"
+    ],
+    "crosslisted": []
   },
   "CS 7890": {
     "class": "CS 7890",
@@ -772,7 +1280,11 @@
     "description": "The theory seminar will meet weekly for lectures by graduate students, faculty, and researchers emphasizing work-in-progress and recent results related to theory of computing.",
     "credits": 1,
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Robert Kleinberg"
+    ],
+    "crosslisted": []
   },
   "CS 7999": {
     "class": "CS 7999",
@@ -783,6 +1295,10 @@
       12
     ],
     "offered": "Fall, Spring.",
-    "pre_coreq": ""
+    "pre_coreq": "",
+    "instructors": [
+      "Graeme Bailey"
+    ],
+    "crosslisted": []
   }
 }

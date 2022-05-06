@@ -35,27 +35,20 @@ for i in range(len(data)):
     current_class["pre_coreq"] = data[i]["catalogPrereqCoreq"].replace(
         "\u00a0", " ")
 
-    # # [firstName] + [lastName] lists all instructors by order of [firstName lastName]
-    # instructors = data[i]["enrollGroups"][0]["classSections"][0]["meetings"][0]["instructors"]
-    # f.write("Instructors: ")
-    # for j in range(len(instructors)):
-    #     if j != 0:
-    #         f.write(", ")
-    #     f.write(instructors[j]["firstName"] +
-    #             " " + instructors[j]["lastName"])
-    # f.write("\n")
-    # f.write("Crosslisted Courses: ")
-    # # scrape crosslisted courses
-    # crosslisted_courses = data[i]["enrollGroups"][0]["simpleCombinations"]
-    # if len(crosslisted_courses) == 0:
-    #     f.write("None")
-    # else:
-    #     for j in range(len(crosslisted_courses)):
-    #         if j != 0:
-    #             f.write(", ")
-    #         f.write(crosslisted_courses[j]["subject"] +
-    #                 " " + crosslisted_courses[j]["catalogNbr"])
-    # f.write("\n\n")
+    # [firstName] + [lastName] lists all instructors by order of [firstName lastName]
+    instructors = data[i]["enrollGroups"][0]["classSections"][0]["meetings"][0]["instructors"]
+    instructor_names = []
+    for j in range(len(instructors)):
+        instructor_names.append(instructors[j]["firstName"] +
+                                " " + instructors[j]["lastName"])
+    current_class["instructors"] = instructor_names
+    # scrape crosslisted courses
+    crosslisted_courses = data[i]["enrollGroups"][0]["simpleCombinations"]
+    crosslisted = []
+    for j in range(len(crosslisted_courses)):
+        crosslisted.append(crosslisted_courses[j]["subject"] +
+                           " " + crosslisted_courses[j]["catalogNbr"])
+    current_class["crosslisted"] = crosslisted
     all_classes[current_class["class"]] = current_class
 with open(file_name, "w") as f:
     f.write(json.dumps(all_classes))
