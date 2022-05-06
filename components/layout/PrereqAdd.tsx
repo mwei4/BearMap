@@ -3,7 +3,7 @@ import { addDoc, collection } from "firebase/firestore"
 import { FormEventHandler, useState } from "react"
 import { Class } from "../../types"
 import { db } from "../../util/firebase"
-import ClassInfo from "./ClassInfo"
+import ClassInfo from './ClassInfo'
 
 const Prereq = () => {
   const [input, setInput] = useState("")
@@ -28,7 +28,7 @@ const Prereq = () => {
                   onChange={(e) => setInput(e.target.value)} />
               <Button type="submit">Add Class</Button>
           </HStack>
-      </form><ClassInfo title="CS 2110"/></>
+      </form><ClassInfo title = {final.toUpperCase()}/></>
 
   )
 }
