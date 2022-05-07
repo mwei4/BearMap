@@ -5,19 +5,23 @@ import post_data from "../../api_scrapper/scrapper/CS_SimplePosts.json"
 let map = new Map()
 
 const ClassInfo = ({title}) => {
-    let classes = "Prereqs: " + json_data[title]
-    let after = "Unlocked: " + post_data[title]
 
-    if (typeof(classes) == 'undefined') {
+    let pre = json_data[title]
+    let post = post_data[title]
+
+    let classes = "Prereqs: " + pre
+    let after = "Unlocked: " + post
+
+    if (typeof(pre) == 'undefined') {
         classes = "Not a valid class for this semester!"
     }
-    else if (classes.length == 0) {
+    else if (pre.length == 0) {
         classes = "No Prereqs!"
     }
-    if (typeof(after) == 'undefined') {
+    if (typeof(post) == 'undefined') {
         after = ""
     }
-    else if (after.length == 0) {
+    else if (post.length == 0) {
         after = "Nothing Unlocked"
     }
 
