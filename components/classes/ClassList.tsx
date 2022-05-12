@@ -12,7 +12,7 @@ const ClassList = ({ courses }: Props) => {
       {courses.length ? (
         courses.map((course) => <ClassItem key={course.id} class={course} />)
       ) : (
-        <Text>The list is looking kinda empty 👀</Text>
+        <Text>The class list is looking kinda empty 👀</Text>
 
       )}
     </VStack>
