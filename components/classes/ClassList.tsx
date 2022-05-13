@@ -10,9 +10,10 @@ const ClassList = ({ courses }: Props) => {
   return (
     <VStack>
       {courses.length ? (
+        //conditional rendering
         courses.map((course) => <ClassItem key={course.id} class={course} />)
       ) : (
-        <Text>The class list is looking kinda empty 👀</Text>
+        <Text>You currently have no classes in your class list!</Text>
 
       )}
     </VStack>
