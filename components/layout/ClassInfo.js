@@ -19,6 +19,7 @@ const ClassInfo = ({title}) => {
     let description = ""
 
     if (typeof(pre) != "undefined") {
+        //functional programming
         pre = pre.map(x => " " + x)
         classes = "Prereqs: " + pre
         instructors = original_data[title].instructors

@@ -6,6 +6,7 @@ import { db } from "../../util/firebase"
 import ClassInfo from './ClassInfo'
 
 const Prereq = () => {
+  //hooks
   const [input, setInput] = useState("")
   const [final, setFinal] = useState("")
 
