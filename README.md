@@ -6,6 +6,7 @@ BearMap is a website that allows Cornell students to navigate through courses ba
 [GitHub Repo](https://github.com/mwei4/BearMap)
 
 # Demo
+### [Video](https://github.com/mwei4/BearMap/blob/main/Demo.mp4) <br>
 To use, type a CS course such as `CS 2110` into the search bar of [/prereqs](https://bear-map.vercel.app/prereqs). <br>
 Example output of querying `CS 2110`: <br><br>
 ![CS 2110](https://cdn.discordapp.com/attachments/895486537318428732/974849301111001159/unknown.png)
