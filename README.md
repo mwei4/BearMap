@@ -1,6 +1,9 @@
 # BearMap
 BearMap is a website that allows Cornell students to navigate through courses based on satisfied prerequisites. 
 
+# Link
+[BearMap](https://bear-map.vercel.app/)
+
 # Demo
 To use, type a CS course such as `CS 2110` into the search bar of [/prereqs](https://bear-map.vercel.app/prereqs). <br>
 Example output of querying `CS 2110`: <br><br>
